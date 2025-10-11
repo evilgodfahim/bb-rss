@@ -69,7 +69,7 @@ function generateRSS(items) {
 async function main() {
   try {
     const items = await fetchAll();
-    const rssContent = generateRSS(items.slice(0,60));
+    const rssContent = generateRSS(items.slice(0,100));
     fs.writeFileSync('feed.xml', rssContent, { encoding: 'utf8' });
     console.log('RSS feed generated with ' + items.length + ' articles');
   } catch (error) {
