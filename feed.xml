@@ -2,12 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bonikbarta Combined Feed</title>
-    <link>https://your-repo.github.io/bb-rss/</link>
-    <atom:link href="https://your-repo.github.io/bb-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://harmonious-froyo-665879.netlify.app/</link>
+    <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 11 Oct 2025 22:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 22:14:49 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ঝিনাইদহে রেললাইন ও মেডিকেল কলেজের দাবিতে মানববন্ধন</title>
+      <link>https://bonikbarta.com/bangladesh/jzgEvkl61bQm4nfb/</link>
+      <description><![CDATA[ঝিনাইদহ শহরে রেললাইন ও মেডিকেল কলেজ স্থাপনের দাবিতে মানববন্ধন কর্মসূচি পালিত হয়েছে।]]></description>
+      <pubDate>Sat, 11 Oct 2025 22:11:37 GMT</pubDate>
+      <guid isPermaLink="false">2e9fd044aa07edd87bbe91f2f16aaaf7</guid>
+    </item>
+    <item>
+      <title>ফুটবল টুর্নামেন্ট</title>
+      <link>https://bonikbarta.com/bangladesh/7cKLWsylpo9jHF5H/</link>
+      <description><![CDATA[ব্রাহ্মণবাড়িয়ায় শহীদ মীর মুগ্ধ স্মৃতি ফুটবল টুর্নামেন্টের ফাইনাল খেলা অনুষ্ঠিত হয়েছে।]]></description>
+      <pubDate>Sat, 11 Oct 2025 22:10:41 GMT</pubDate>
+      <guid isPermaLink="false">a36d4b679e6e9f1e7e5a42066d2fe2bd</guid>
+    </item>
+    <item>
+      <title>বিক্ষোভ মিছিল</title>
+      <link>https://bonikbarta.com/bangladesh/EGq2RbPnvKRvR3t6/</link>
+      <description><![CDATA[শতভাগ বোনাস, ৫০ শতাংশ বাড়ি ভাড়া ও ১৫০০ টাকা চিকিৎসা ভাতাসহ পাঁচ দফা দাবিতে চুয়াডাঙ্গায় বিক্ষোভ মিছিল করেছে বাংলাদেশের আদর্শ শিক্ষক ফেডারেশন।]]></description>
+      <pubDate>Sat, 11 Oct 2025 22:09:36 GMT</pubDate>
+      <guid isPermaLink="false">efc48e125e53e703f887e3562b577eef</guid>
+    </item>
+    <item>
+      <title>জেলে আটক</title>
+      <link>https://bonikbarta.com/bangladesh/vFOxEawPaZ81JXys/</link>
+      <description><![CDATA[বাগেরহাটে পূর্ব সুন্দরবনে অবৈধভাবে মাছ ধরার অপরাধে চার জেলেকে আটক করা হয়েছে।]]></description>
+      <pubDate>Sat, 11 Oct 2025 22:08:57 GMT</pubDate>
+      <guid isPermaLink="false">6675f90389c79f8164c6b557b7cf0447</guid>
+    </item>
+    <item>
+      <title>কারখানায় অভিযান</title>
+      <link>https://bonikbarta.com/bangladesh/f2OUs10gDszSJBoC/</link>
+      <description><![CDATA[সাভারে অবৈধভাবে টায়ার পুড়িয়ে ফার্নেস অয়েল তৈরির কারখানায় অভিযান পরিচালনা করেছে পরিবেশ অধিদপ্তর।]]></description>
+      <pubDate>Sat, 11 Oct 2025 22:08:11 GMT</pubDate>
+      <guid isPermaLink="false">af1e8e4ec1a84b31cc17300724725693</guid>
+    </item>
+    <item>
+      <title>সংঘর্ষ</title>
+      <link>https://bonikbarta.com/bangladesh/tFkPenYqmuYpEZJ8/</link>
+      <description><![CDATA[বরিশালের মেহেন্দিগঞ্জে কালাবদর নদীতে নিষেধাজ্ঞা অমান্য করে জাল পাতাকে কেন্দ্র করে দুই পক্ষের সংঘর্ষ হয়েছে।]]></description>
+      <pubDate>Sat, 11 Oct 2025 22:07:17 GMT</pubDate>
+      <guid isPermaLink="false">bb151dd8650e67b2f534e8dfe2689e94</guid>
+    </item>
     <item>
       <title>চট্টগ্রামে মিছিলের চেষ্টাকালে আওয়ামী লীগের ১৭ নেতাকর্মী আটক</title>
       <link>https://bonikbarta.com/bangladesh/d4h8baOpBQjreIDg/</link>
@@ -170,13 +212,6 @@
       <guid isPermaLink="false">f95bf53cab70b13517aad5b961fcb21d</guid>
     </item>
     <item>
-      <title>দেশে পাঁচ বছরে এলপিজির চাহিদা বাড়বে ৬০ শতাংশ</title>
-      <link>https://bonikbarta.com/bangladesh/DA9P1J5wsqKVIVDV/</link>
-      <description><![CDATA[দেশে বর্তমানে তরলীকৃত পেট্রোলিয়াম গ্যাসের (এলপিজি) ব্যবহার ১৫ লাখ টনের ওপর। স্থানীয় গ্যাসের উৎপাদন হ্রাস এবং বাসাবাড়িতে পাইপলাইনে নতুন করে গ্যাস সংযোগ বন্ধ থাকায় এলপিজির ব্যবহার দিন দিনই বাড়ছে।]]></description>
-      <pubDate>Sat, 11 Oct 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">0554078e17254aff9e78c15bfa26062d</guid>
-    </item>
-    <item>
       <title>ফোন-আইপ্যাডের পর এবার ইনস্টাগ্রাম আসছে টিভিতেও</title>
       <link>https://bonikbarta.com/scitech/WlOA83056CbMissx/</link>
       <description><![CDATA[ইনস্টাগ্রাম পরিষেবার পরিধি বাড়াতে চাইছে মেটা। দীর্ঘ অপেক্ষার পর সাম্প্রতিক বছরগুলোয় আইপ্যাডের জন্য বিশেষ অ্যাপ চালু করেছে মেটার মালিকানাধীন প্লাটফর্মটি।]]></description>
@@ -210,6 +245,13 @@
       <description><![CDATA[স্যামসাং নিজেদের প্রথম ট্রাই-ফোল্ড স্মার্টফোন বাজারে আনার প্রস্তুতি নিচ্ছে বলে জানা গেছে।]]></description>
       <pubDate>Sat, 11 Oct 2025 20:47:03 GMT</pubDate>
       <guid isPermaLink="false">237d154287120206fe64dba2a61e49eb</guid>
+    </item>
+    <item>
+      <title>‘এআই বাবল’ ভাঙলে বড় ধস নামতে পারে বৈশ্বিক প্রযুক্তি খাতে</title>
+      <link>https://bonikbarta.com/scitech/QH0CzQ8CNrSbezcZ/</link>
+      <description><![CDATA[কৃত্রিম বুদ্ধিমত্তার (এআই) দ্রুত উত্থান নিয়ে সম্ভাবনার সঙ্গে উদ্বেগও বাড়ছে যুক্তরাষ্ট্রের প্রযুক্তির রাজধানী খ্যাত সিলিকন ভ্যালিতে।]]></description>
+      <pubDate>Sat, 11 Oct 2025 20:43:16 GMT</pubDate>
+      <guid isPermaLink="false">489c037ea316198561d9f003fd139ee0</guid>
     </item>
     <item>
       <title>এলপিজিকে সাশ্রয়ী করতে হলে সরকারি নীতি সমর্থনের পাশাপাশি গড়ে তুলতে হবে অবকাঠামোও</title>
@@ -357,6 +399,27 @@
       <description><![CDATA[টানা সপ্তম মাসের মতো সেপ্টেম্বরেও মালয়েশিয়ায় পাম অয়েলের মজুদ বেড়েছে।]]></description>
       <pubDate>Sat, 11 Oct 2025 20:21:20 GMT</pubDate>
       <guid isPermaLink="false">c14c48ed6295e8333e2857e5e516c82d</guid>
+    </item>
+    <item>
+      <title>ট্রাম্পের শুল্ক বৃদ্ধির হুমকিতে পাঁচ মাসের সর্বনিম্নে জ্বালানি তেলের মূল্য</title>
+      <link>https://bonikbarta.com/economy/APNQZCQ9cEiq4EYT/</link>
+      <description><![CDATA[চীনা পণ্যের ওপর যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের অতিরিক্ত শুল্ক আরোপের হুমকির জেরে বিশ্ববাজারে জ্বালানি তেলের দাম পাঁচ মাসের সর্বনিম্নে নেমেছে।]]></description>
+      <pubDate>Sat, 11 Oct 2025 20:21:20 GMT</pubDate>
+      <guid isPermaLink="false">6449be8814c2f78dbae06b6b143d1560</guid>
+    </item>
+    <item>
+      <title>ভোমরা স্থলবন্দর দিয়ে আমদানি বাড়লেও সাতক্ষীরায় কমছে না চালের দাম</title>
+      <link>https://bonikbarta.com/economy/WTyji7YzHt6YEDdH/</link>
+      <description><![CDATA[ভোমরা স্থলবন্দর দিয়ে চাল আমদানি বাড়লেও সাতক্ষীরার পাইকারি ও খুচরা বাজারে কমছে না চালের দাম।]]></description>
+      <pubDate>Sat, 11 Oct 2025 20:21:20 GMT</pubDate>
+      <guid isPermaLink="false">93ec684172a482b2e03172edbaceacfc</guid>
+    </item>
+    <item>
+      <title>এশিয়ার স্পট মার্কেটে বেড়েছে এলএনজির বাজারদর</title>
+      <link>https://bonikbarta.com/economy/u0JPUqHRrblyf93Y/</link>
+      <description><![CDATA[এশিয়ার স্পট মার্কেটে প্রায় এক মাস পর প্রথমবারের মতো তরলীকৃত প্রাকৃতিক গ্যাসের (এলএনজি) দাম বেড়েছে।]]></description>
+      <pubDate>Sat, 11 Oct 2025 20:21:20 GMT</pubDate>
+      <guid isPermaLink="false">bdc2fc4c05d2f1baea935b05b41f2de1</guid>
     </item>
   </channel>
 </rss>
