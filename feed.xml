@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 12 Oct 2025 01:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 03:05:47 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>'পাল্টা হামলা'র দাবি তালেবানের, ‘ইঁটের জবাবে পাথর ছোঁড়ার’ হুমকি পাকিস্তানের</title>
+      <link>https://bonikbarta.com/international/OG0cNs3Z82ItSFPY/</link>
+      <description><![CDATA[তালেবানের এই 'পাল্টা পদক্ষেপের' প্রতিক্রিয়ায় পাকিস্তানের স্বরাষ্ট্রমন্ত্রী মহসিন নাকভি তালেবান হামলাকে 'উসকানিমূলক' আখ্যা দিয়ে আফগান বাহিনীর বিরুদ্ধে সাধারণ নাগরিকদের ওপর গুলি চালানোর অভিযোগ তুলেছেন।]]></description>
+      <pubDate>Sun, 12 Oct 2025 02:54:15 GMT</pubDate>
+      <guid isPermaLink="false">2cca5dd715039c4d9997193c8c4e7d32</guid>
+    </item>
     <item>
       <title>ঝিনাইদহে রেললাইন ও মেডিকেল কলেজের দাবিতে মানববন্ধন</title>
       <link>https://bonikbarta.com/bangladesh/jzgEvkl61bQm4nfb/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">467f4344b0aa4d3eca7de2ccb381c7f3</guid>
     </item>
     <item>
-      <title>জ্ঞান ও উদ্ভাবনে যে ভূমিকা রাখায় বিজ্ঞানে এবারের নোবেল</title>
-      <link>https://bonikbarta.com/editorial/rtnb0yHycK0cenSu/</link>
-      <description><![CDATA[১৯০১ সালে প্রতিষ্ঠিত নোবেল পুরস্কার বিশ্বের সবচেয়ে সম্মানজনক পুরস্কার। অসাধারণ মৌলিক গবেষণা আবিষ্কার ও উদ্ভাবনের জন্য ব্যক্তি ও প্রতিষ্ঠানকে প্রতি বছর এ পুরস্কার প্রদান করা হয়।]]></description>
+      <title>দেশে পাঁচ বছরে এলপিজির চাহিদা বাড়বে ৬০ শতাংশ</title>
+      <link>https://bonikbarta.com/bangladesh/DA9P1J5wsqKVIVDV/</link>
+      <description><![CDATA[দেশে বর্তমানে তরলীকৃত পেট্রোলিয়াম গ্যাসের (এলপিজি) ব্যবহার ১৫ লাখ টনের ওপর। স্থানীয় গ্যাসের উৎপাদন হ্রাস এবং বাসাবাড়িতে পাইপলাইনে নতুন করে গ্যাস সংযোগ বন্ধ থাকায় এলপিজির ব্যবহার দিন দিনই বাড়ছে।]]></description>
       <pubDate>Sat, 11 Oct 2025 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">f95bf53cab70b13517aad5b961fcb21d</guid>
+      <guid isPermaLink="false">0554078e17254aff9e78c15bfa26062d</guid>
     </item>
     <item>
       <title>ফোন-আইপ্যাডের পর এবার ইনস্টাগ্রাম আসছে টিভিতেও</title>
@@ -413,13 +420,6 @@
       <description><![CDATA[ভোমরা স্থলবন্দর দিয়ে চাল আমদানি বাড়লেও সাতক্ষীরার পাইকারি ও খুচরা বাজারে কমছে না চালের দাম।]]></description>
       <pubDate>Sat, 11 Oct 2025 20:21:20 GMT</pubDate>
       <guid isPermaLink="false">93ec684172a482b2e03172edbaceacfc</guid>
-    </item>
-    <item>
-      <title>এশিয়ার স্পট মার্কেটে বেড়েছে এলএনজির বাজারদর</title>
-      <link>https://bonikbarta.com/economy/u0JPUqHRrblyf93Y/</link>
-      <description><![CDATA[এশিয়ার স্পট মার্কেটে প্রায় এক মাস পর প্রথমবারের মতো তরলীকৃত প্রাকৃতিক গ্যাসের (এলএনজি) দাম বেড়েছে।]]></description>
-      <pubDate>Sat, 11 Oct 2025 20:21:20 GMT</pubDate>
-      <guid isPermaLink="false">bdc2fc4c05d2f1baea935b05b41f2de1</guid>
     </item>
   </channel>
 </rss>
