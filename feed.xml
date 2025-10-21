@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 21 Oct 2025 04:28:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 04:45:53 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>তত্ত্বাবধায়ক সরকার বাতিলের রায়ের বিরুদ্ধে আপিলের শুনানি আজ</title>
+      <link>https://bonikbarta.com/bangladesh/qvDUYaZu5sTKj24a/</link>
+      <description><![CDATA[গত ২৭ আগস্ট তত্ত্বাবধায়ক সরকার বাতিল রায়ের বিরুদ্ধে আপিলের অনুমতি দেন আপিল বিভাগ। পুনরায় এ বিষয়ে আপিল শুনবেন বলে জানান আদালত। এরই ধারাবাহিকতায় মামলাটি শুনানির দিন নির্ধারণ করা হয়।]]></description>
+      <pubDate>Tue, 21 Oct 2025 04:32:40 GMT</pubDate>
+      <guid isPermaLink="false">06131b6acf123026a5403d414e7dae73</guid>
+    </item>
     <item>
       <title>‘আই লাভ মুহাম্মাদ’ বললেই মামলা, উত্তরপ্রদেশে সংখ্যালঘুদের কণ্ঠরোধের অভিযোগ</title>
       <link>https://bonikbarta.com/international/nFrFu9ToRNHIbnll/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">eb7b6f55ff043a924fccabe89cbef1de</guid>
     </item>
     <item>
-      <title>অগ্নিকাণ্ড</title>
-      <link>https://bonikbarta.com/bangladesh/W1bvEX0f3slKnifM/</link>
-      <description><![CDATA[চাঁদপুরে গ্যাস সিলিন্ডার লিকেজ থেকে অগ্নিকাণ্ডের ঘটনা ঘটেছে। আগুনে সাতটি ব্যবসাপ্রতিষ্ঠান পুড়ে গেছে।]]></description>
+      <title>মানববন্ধন</title>
+      <link>https://bonikbarta.com/bangladesh/BHnxPfByX9WHBmTe/</link>
+      <description><![CDATA[পটুয়াখালী সদর উপজেলার মরিচবুনিয়া ইউনিয়নের বরুন বাড়ীয়া সরকারি প্রাথমিক বিদ্যালয় ভোট কেন্দ্র স্থানান্তরের উদ্যোগের প্রতিবাদে মানববন্ধন করেছেন এলাকাবাসী।]]></description>
       <pubDate>Mon, 20 Oct 2025 20:25:25 GMT</pubDate>
-      <guid isPermaLink="false">bd1b9fc66e84a6d6ea3f97b44f492ab7</guid>
+      <guid isPermaLink="false">1f96e421592e76cfa3d0ad269885f203</guid>
     </item>
     <item>
       <title>জাল জব্দ</title>
@@ -413,13 +420,6 @@
       <description><![CDATA[বছরের তৃতীয় প্রান্তিকে (জুলাই-সেপ্টেম্বর) চীনে প্রবৃদ্ধির হার দাঁড়িয়েছে ৪ দশমিক ৮ শতাংশে। এ হার বিগত এক বছরের মধ্যে সর্বনিম্ন হলেও বিশ্লেষকদের প্রত্যাশার চেয়ে বেশি।]]></description>
       <pubDate>Mon, 20 Oct 2025 20:00:00 GMT</pubDate>
       <guid isPermaLink="false">3dbbbb86230a800febc00db185060466</guid>
-    </item>
-    <item>
-      <title>ভারতে ব্যাংক খাতে বেড়েছে করপোরেট ঋণ</title>
-      <link>https://bonikbarta.com/international/syRqKMdnKXzR7SSj/</link>
-      <description><![CDATA[চলতি অর্থবছরের দ্বিতীয় প্রান্তিকে (জুলাই-সেপ্টেম্বর) উল্লেখযোগ্যভাবে বেড়েছে ভারতীয় বড় ব্যাংকগুলোর করপোরেট ঋণ বিতরণ।]]></description>
-      <pubDate>Mon, 20 Oct 2025 20:00:00 GMT</pubDate>
-      <guid isPermaLink="false">d2b310e1c1a87c066d6c7b5ae27b79e5</guid>
     </item>
   </channel>
 </rss>
