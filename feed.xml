@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 24 Oct 2025 04:28:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 04:45:30 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মার্কিন চাপের কাছে কখনোই নতি স্বীকার করবে না রাশিয়া: পুতিন</title>
+      <link>https://bonikbarta.com/international/i6a0HyW912r1ojuZ/</link>
+      <description><![CDATA[রুশ প্রেসিডেন্ট বলেন, বিশ্ব জ্বালানি বাজারে ভারসাম্য নষ্ট হলে দাম বেড়ে যাবে, যা যুক্তরাষ্ট্রের মতো দেশগুলোর জন্য অস্বস্তিকর হবে।]]></description>
+      <pubDate>Fri, 24 Oct 2025 04:43:07 GMT</pubDate>
+      <guid isPermaLink="false">2add65719c9c17f120444a2045c4a7a2</guid>
+    </item>
     <item>
       <title>লিবিয়া থেকে দেশে ফিরছেন ৩০৯ বাংলাদেশী</title>
       <link>https://bonikbarta.com/bangladesh/ZSxCdBenGUPcdsZa/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">2e2fab99b4a6d572bf10773e283d5a2e</guid>
     </item>
     <item>
-      <title>সবচেয়ে বেশি বিক্রীত ভিডিও গেম মাইনক্রাফট, পেছনে জিটিএ ও টেট্রিস</title>
-      <link>https://bonikbarta.com/scitech/VUXqqdUE1khSYAkc/</link>
-      <description><![CDATA[বিশ্বজুড়ে সবচেয়ে বেশি বিক্রি হওয়া ভিডিও গেমের তালিকায় শীর্ষে আছে ‘মাইনক্রাফট’।]]></description>
-      <pubDate>Thu, 23 Oct 2025 21:13:00 GMT</pubDate>
-      <guid isPermaLink="false">3146a180b5772110c5ed1c5e886cfd6f</guid>
+      <title>বিক্রি কমায় আইফোন এয়ারের উৎপাদন কমাচ্ছে অ্যাপল</title>
+      <link>https://bonikbarta.com/scitech/fYZHJbBr8EJNidEW/</link>
+      <description><![CDATA[বিক্রির গতি কমে যাওয়ায় নিজেদের সর্বশেষ স্মার্টফোন মডেল ‘আইফোন এয়ার’-এর উৎপাদন কমানোর সিদ্ধান্ত নিয়েছে অ্যাপল।]]></description>
+      <pubDate>Thu, 23 Oct 2025 21:11:43 GMT</pubDate>
+      <guid isPermaLink="false">bb035bb857cb0f178190f2aee5bc561f</guid>
     </item>
     <item>
       <title>‘এআইয়ের হাতে থাকবে সব কাজ, মানুষ করবে সবজি চাষ’</title>
@@ -413,13 +420,6 @@
       <description><![CDATA[বিদ্যুৎ খাতের তালিকাভুক্ত কোম্পানি সামিট পাওয়ার লিমিটেডের সর্বশেষ সমাপ্ত ২০২৪-২৫ হিসাব বছরে সাতটি বিদ্যুৎ কেন্দ্র বন্ধ থাকায় আর্থিক ক্ষতি (ইমপেয়ারমেন্ট লস) হয়েছে ১৫২ কোটি টাকা।]]></description>
       <pubDate>Thu, 23 Oct 2025 20:19:24 GMT</pubDate>
       <guid isPermaLink="false">e8b93bca7c8584b127257bbb6c002668</guid>
-    </item>
-    <item>
-      <title>আর্গন ডেনিমসের নিট মুনাফা বেড়েছে দ্বিগুণ</title>
-      <link>https://bonikbarta.com/economy/pPm1klyQl6NMkQo2/</link>
-      <description><![CDATA[বস্ত্র খাতে তালিকাভুক্ত আর্গন ডেনিমস লিমিটেডের সর্বশেষ সমাপ্ত ২০২৪-২৫ হিসাব বছরে নিট মুনাফা বেড়েছে ২ দশমিক ২২ গুণ।]]></description>
-      <pubDate>Thu, 23 Oct 2025 20:19:24 GMT</pubDate>
-      <guid isPermaLink="false">2f618f3e352e478f4ed97185775385ba</guid>
     </item>
   </channel>
 </rss>
