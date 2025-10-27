@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 27 Oct 2025 07:23:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 07:40:57 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মাদ্রিদকে ‘প্রতারক’ বলে বার্নাব্যুতে লাগাতার দুয়োধ্বনির শিকার ইয়ামাল</title>
+      <link>https://bonikbarta.com/sports/Fj9UbhmsY8zIZyvE/</link>
+      <description><![CDATA[ম্যাচের আগে শুক্রবার এক টেলিভিশন সাক্ষাৎকারে ১৮ বছর বয়সী বার্সা ফরোয়ার্ড ইয়ামাল ইঙ্গিত দিয়েছিলেন যে, রিয়াল মাদ্রিদ ‘প্রতারণা এবং অভিযোগ করে’। এই মন্তব্যের পরই রিয়াল ভক্তরা যেন তাঁর ওপর প্রতিশোধ নেয়ারই ক্ষণ গুনছিল।]]></description>
+      <pubDate>Mon, 27 Oct 2025 07:31:20 GMT</pubDate>
+      <guid isPermaLink="false">8dc7b732b893c6bed5e242f21ed499cd</guid>
+    </item>
     <item>
       <title>নির্বাচিত সরকার না আসা পর্যন্ত দায়িত্বে থাকবে উপদেষ্টা পরিষদ</title>
       <link>https://bonikbarta.com/bangladesh/sPozQoChViY02hB2/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">3be705cc0fd23f8efad6c6783967d67b</guid>
     </item>
     <item>
-      <title>টেক্সট ও অডিও থেকে মিউজিক তৈরি করবে ওপেনএআইয়ের নতুন টুল</title>
-      <link>https://bonikbarta.com/scitech/xeXCRsDAXEZQwkDn/</link>
-      <description><![CDATA[কৃত্রিম বুদ্ধিমত্তানির্ভর (এআই) মিউজিক টুল তৈরি করছে চ্যাটজিপিটি নির্মাতা ওপেনএআই।]]></description>
-      <pubDate>Sun, 26 Oct 2025 20:59:49 GMT</pubDate>
-      <guid isPermaLink="false">0c63ce0283aaf4d3d9362c6a49d05406</guid>
+      <title>ম্যালওয়্যার ছড়ানোর অভিযোগে ৩ হাজার ইউটিউব ভিডিও সরাল গুগল</title>
+      <link>https://bonikbarta.com/scitech/BVlaSShUl1SYBO5A/</link>
+      <description><![CDATA[ইউটিউবের হাজারো ভিডিও সরিয়ে নিয়েছে গুগল। এসব ভিডিও গোপনে ব্যবহারকারীর পাসওয়ার্ড চুরি করার লক্ষ্যে তৈরি করা হয়েছিল বলে জানিয়েছে টেক জায়ান্টটি।]]></description>
+      <pubDate>Sun, 26 Oct 2025 20:56:15 GMT</pubDate>
+      <guid isPermaLink="false">f05e3d589094285151065e0b566e3020</guid>
     </item>
     <item>
       <title>উজ্জ্বল স্ক্রিন ও দীর্ঘস্থায়ী ব্যাটারিসহ শাওমি আনল রেডমি ওয়াচ ৬</title>
@@ -413,13 +420,6 @@
       <description><![CDATA[কিছুদিন ধরে ডেঙ্গু ও চিকুনগুনিয়া রোগের প্রকোপ বেড়েছে। দুটিই এডিস মশাবাহিত রোগ, যার কারণে এ দুই রোগের উপসর্গও প্রায় কাছাকাছি।]]></description>
       <pubDate>Sun, 26 Oct 2025 20:28:54 GMT</pubDate>
       <guid isPermaLink="false">d0a9d1dc29c4a56044d578c97f39cffa</guid>
-    </item>
-    <item>
-      <title>চিকুনগুনিয়ার উপসর্গ প্রতিকারে করণীয়</title>
-      <link>https://bonikbarta.com/healthcare/PZJKfeqKkosJl1zH/</link>
-      <description><![CDATA[রাহিমা সুলতানা একজন গৃহিণী, বয়স ৪৫ বছর। সারা দিনের কাজ শেষে বিকালে ছাদবাগানের পরিচর্যা করেন।]]></description>
-      <pubDate>Sun, 26 Oct 2025 20:28:54 GMT</pubDate>
-      <guid isPermaLink="false">02f2f9073d837e92ab09c4371e24688a</guid>
     </item>
   </channel>
 </rss>
