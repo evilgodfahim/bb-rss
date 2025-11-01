@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 01 Nov 2025 05:22:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 05:41:38 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ঢাকার বাতাস আজ ‘সহনীয়’, সবচেয়ে দূষিত শহর নয়াদিল্লি</title>
+      <link>https://bonikbarta.com/bangladesh/1cYheGenCwVRatrm/</link>
+      <description><![CDATA[এ তালিকায় এখন ষোলতম অবস্থানে রাজধানী শহর ঢাকা। আইকিউএয়ার-এর তথ্য অনুযায়ী, আজ শনিবার সকাল ১১টা ১৫ মিনিটে ঢাকার এয়ার কোয়ালিটি ইনডেক্স স্কোর ৮৮। সে হিসাবে বাতাসের মান ‘সহনীয়’।]]></description>
+      <pubDate>Sat, 01 Nov 2025 05:33:55 GMT</pubDate>
+      <guid isPermaLink="false">dfc774e48e4bff286dd4d8b03cf04b05</guid>
+    </item>
     <item>
       <title>ঢাকা ও পার্শ্ববর্তী এলাকায় হালকা বৃষ্টির পূর্বাভাস, কমতে পারে তাপমাত্রা</title>
       <link>https://bonikbarta.com/bangladesh/1hAFnBoBM5EalnVw/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">29d9d6010ee5cce3e2fccc640b3c0351</guid>
     </item>
     <item>
-      <title>আইসিবি অ্যাসেট ম্যানেজমেন্টের ৪৫ শতাংশ লভ্যাংশ অনুমোদন</title>
-      <link>https://bonikbarta.com/economy/lONaFxYyF0zoVRF2/</link>
-      <description><![CDATA[ইনভেস্টমেন্ট করপোরেশন অব বাংলাদেশের (আইসিবি) সাবসিডিয়ারি প্রতিষ্ঠান আইসিবি অ্যাসেট ম্যানেজমেন্ট পিএলসির (আইএএমপিএলসি) ২৫তম বার্ষিক সাধারণ সভা (এজিএম) অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Fri, 31 Oct 2025 20:42:59 GMT</pubDate>
-      <guid isPermaLink="false">6b123e130a841c55c31c13e798d53e6c</guid>
+      <title>দশ মাসে ৩৯ হাজার টন আলু রফতানি</title>
+      <link>https://bonikbarta.com/economy/e7SxtsSivgVK4XAk/</link>
+      <description><![CDATA[পঞ্চগড়ের বাংলাবান্ধা স্থলবন্দর দিয়ে ১ হাজার ৪০৭ টন আলু নেপালে পাঠানো হয়েছে।]]></description>
+      <pubDate>Fri, 31 Oct 2025 20:41:42 GMT</pubDate>
+      <guid isPermaLink="false">f5127cc166220baa453c763bdf218227</guid>
     </item>
     <item>
       <title>বাণিজ্য সহযোগিতা জোরদারে বিএফটিআই ও আইটিডির মধ্যে এমওইউ স্বাক্ষর</title>
@@ -413,13 +420,6 @@
       <description><![CDATA[১০ বছর মেয়াদি প্রতিরক্ষা চুক্তি সই করেছে ভারত ও যুক্তরাষ্ট্র। প্রতিরক্ষা খাতে পারস্পরিক সহযোগিতা বাড়াতেই এ চুক্তি। গতকাল সামাজিক যোগাযোগমাধ্যম এক্সে দেয়া এক পোস্টে মার্কিন প্রতিরক্ষামন্ত্রী পিট হেগসেথ এ কথা জানান।]]></description>
       <pubDate>Fri, 31 Oct 2025 20:35:18 GMT</pubDate>
       <guid isPermaLink="false">c33ec611fcb0708a611c723dfd568d02</guid>
-    </item>
-    <item>
-      <title>ভিয়েতনামে নতুন ফসলের অপেক্ষায় ধীরে চলছে কফি বাণিজ্য</title>
-      <link>https://bonikbarta.com/economy/MAnFlvcDxe65VXIy/</link>
-      <description><![CDATA[বিশ্বের দ্বিতীয় বৃহৎ কফি উৎপাদনকারী দেশ ভিয়েতনামে কফি কেনাবেচা এখনো ধীরগতিতে চলছে।]]></description>
-      <pubDate>Fri, 31 Oct 2025 20:35:18 GMT</pubDate>
-      <guid isPermaLink="false">fbcd10adae193d0a039b423e01775811</guid>
     </item>
   </channel>
 </rss>
