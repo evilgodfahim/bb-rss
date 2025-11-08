@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 08 Nov 2025 04:45:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 05:23:00 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ডিএনএ ডাবল হেলিক্সের সহ-আবিষ্কারক জেমস ওয়াটসনের মৃত্যু</title>
+      <link>https://bonikbarta.com/scitech/nxjIJQCB3sBEOEwJ/</link>
+      <description><![CDATA[ডিএনএর গঠন আবিষ্কারের জন্য ওয়াটসন ১৯৬২ সালে সহকর্মী ফ্রান্সিস ক্রিক ও মরিস উইলকিন্স-এর সঙ্গে চিকিৎসাবিজ্ঞানে নোবেল পুরস্কার অর্জন করেন।]]></description>
+      <pubDate>Sat, 08 Nov 2025 05:05:56 GMT</pubDate>
+      <guid isPermaLink="false">85a4fa550fa68940edfcd0207a95635a</guid>
+    </item>
     <item>
       <title>‘নারকো-সন্ত্রাসী’ নয়, ভেনেজুয়েলায় মার্কিন হামলায় নিহতদের অধিকাংশই দরিদ্র জেলে</title>
       <link>https://bonikbarta.com/international/meOHCbICfL1Bwzme/</link>
@@ -205,11 +212,11 @@
       <guid isPermaLink="false">b4a8e65e5b54ae0e5f5485ecbb35ffd4</guid>
     </item>
     <item>
-      <title>এনভিডিয়াকে টক্কর দিতে এআই চিপ ‘আয়রনউড’ উন্মোচন করল গুগল</title>
-      <link>https://bonikbarta.com/scitech/HbkKZr0G6ICjDpJD/</link>
-      <description><![CDATA[বিশ্বব্যাপী কৃত্রিম বুদ্ধিমত্তা (এআই) অবকাঠামো বিকাশের দৌড়ে নিজেদের অবস্থান আরো শক্ত করতে সবচেয়ে উন্নত এআই চিপ উন্মোচন করেছে গুগল।]]></description>
-      <pubDate>Fri, 07 Nov 2025 20:55:18 GMT</pubDate>
-      <guid isPermaLink="false">ca73a417ee3b1ce253bde088611ac88d</guid>
+      <title>চ্যাটজিপিটি নির্মাতার বিরুদ্ধে ৭ মামলা</title>
+      <link>https://bonikbarta.com/scitech/0QE8YnlxH9jXDTVc/</link>
+      <description><![CDATA[যুক্তরাষ্ট্রে চ্যাটজিপিটি নির্মাতা প্রতিষ্ঠান ওপেনএআইয়ের বিরুদ্ধে সাতটি পৃথক মামলা করা হয়েছে।]]></description>
+      <pubDate>Fri, 07 Nov 2025 20:52:18 GMT</pubDate>
+      <guid isPermaLink="false">b0ef71e8a7ff4e4bb828410ea8b3d5da</guid>
     </item>
     <item>
       <title>স্মার্টফোনে ফোন কলের অভিজ্ঞতা সহজ করার ৫ টিপস</title>
@@ -413,13 +420,6 @@
       <description><![CDATA[লেফটেন্যান্ট কর্নেল মো. লুৎফর রহমান জানান, ৬ নভেম্বর ভোর রাতে সুনির্দিষ্ট গোয়েন্দা তথ্যের ভিত্তিতে গাজীপুর আর্মি ক্যাম্পের তত্ত্বাবধানে এবং পুলিশ ও র‌্যাবের সহায়তায় শ্রীপুরের বরমী ইউনিয়নে যৌথ অভিযান পরিচালিত হয়।]]></description>
       <pubDate>Fri, 07 Nov 2025 20:25:12 GMT</pubDate>
       <guid isPermaLink="false">ee6b80f4aca4f0971e96166e67ab368c</guid>
-    </item>
-    <item>
-      <title>এখনো কোনো দলের সঙ্গে জোট করিনি</title>
-      <link>https://bonikbarta.com/bangladesh/nYyVlO4T5yw5LqzU/</link>
-      <description><![CDATA[গণঅধিকার পরিষদের সভাপতি নুরুল হক নুর বলেছেন, ‘আমরা এখন পর্যন্ত কোনো রাজনৈতিক দলের সঙ্গে জোট করিনি।]]></description>
-      <pubDate>Fri, 07 Nov 2025 20:25:12 GMT</pubDate>
-      <guid isPermaLink="false">ed8fbedae59b29ac87a9b781dbb90cb8</guid>
     </item>
   </channel>
 </rss>
