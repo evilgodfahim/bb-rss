@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Mon, 10 Nov 2025 15:27:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 15:45:46 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সন্ধ্যার পর রাজধানীতে বাসে আগুন ও ককটেল বিস্ফোরণ</title>
+      <link>https://bonikbarta.com/bangladesh/2nfuwavDRnRaZn06/</link>
+      <description><![CDATA[মোটরসাইকেলে এসে দুজন ব্যক্তি এই বিস্ফোরণ ঘটিয়েছেন। তাদের মাথায় হেলমেট ছিল। চেহারা বোঝা যায়নি। সিসি ক্যামেরার ফুটেজ বিশ্লেষণ করে দুজনকে শনাক্তের চেষ্টা চলছে।]]></description>
+      <pubDate>Mon, 10 Nov 2025 15:30:44 GMT</pubDate>
+      <guid isPermaLink="false">a0bf52e9ec07478c870b79f21d5df083</guid>
+    </item>
     <item>
       <title>দিল্লির লালকেল্লার কাছে ভয়াবহ বিস্ফোরণে নিহত ৮</title>
       <link>https://bonikbarta.com/bangladesh/JnCH9H4BSY7SWQUq/</link>
@@ -420,13 +427,6 @@
       <description><![CDATA[চট্টগ্রাম মেট্রোপলিটন পুলিশের (সিএমপি) দুই থানার ভারপ্রাপ্ত কর্মকর্তার (ওসি) পদে রদবদল করা হয়েছে।]]></description>
       <pubDate>Sun, 09 Nov 2025 21:54:32 GMT</pubDate>
       <guid isPermaLink="false">a4756ed1f57c3fc766cfc834a3ccc3a4</guid>
-    </item>
-    <item>
-      <title>মেহেরপুরে বিলে পদ্মফুল তুলতে গিয়ে চার বোনের মৃত্যু</title>
-      <link>https://bonikbarta.com/bangladesh/VyN51ritZ7OWJXYI/</link>
-      <description><![CDATA[মেহেরপুর সদর উপজেলায় পদ্মফুল তুলতে গিয়ে বিলের পানিতে ডুবে একই পরিবারের চার শিশুর মর্মান্তিক মৃত্যু হয়েছে।]]></description>
-      <pubDate>Sun, 09 Nov 2025 21:53:11 GMT</pubDate>
-      <guid isPermaLink="false">181c5e36b5f0e654850c9e95b8338209</guid>
     </item>
   </channel>
 </rss>
