@@ -3092,4 +3092,15 @@
     <lastBuildDate>Tue, 11 Nov 2025 04:33:06 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
   </channel>
+</rss><?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bonikbarta Combined Feed</title>
+    <link>https://harmonious-froyo-665879.netlify.app/</link>
+    <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Latest articles from Bonikbarta</description>
+    <language>bn</language>
+    <lastBuildDate>Tue, 11 Nov 2025 05:25:31 GMT</lastBuildDate>
+    <generator>GitHub Actions RSS Generator</generator>
+  </channel>
 </rss>
