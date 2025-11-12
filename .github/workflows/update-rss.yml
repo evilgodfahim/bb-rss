@@ -22,9 +22,9 @@ jobs:
         with:
           node-version: '18'
 
-      # 3. Install dependencies (if using node-fetch, puppeteer, etc.)
+      # 3. Install dependencies
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       # 4. Set environment variables
       - name: Set environment variables
