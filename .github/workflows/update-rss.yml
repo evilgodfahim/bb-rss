@@ -26,13 +26,25 @@ jobs:
           echo "USE_PUPPETEER=0" >> $GITHUB_ENV
 
       - name: Generate RSS Feed
-        run: node generate-rss.js || exit 1
+        run: |
+          echo "Fetching articles and generating feed..."
+          node generate-rss.js || exit 1
 
       - name: Generate PolitePol HTML
-        run: node generate-plain-index.js || exit 1
+        run: |
+          echo "Generating plain HTML index..."
+          node generate-plain-index.js || exit 1
 
-      - name: Commit and push changes
-        run: git config --local user.email "action@github.com" && \
-             git config --local user.name "GitHub Action" && \
-             git add feed.xml index-plain.html && \
-             git diff --staged --quiet || (git commit -m "🔄 Update RSS feed and HTML - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit RSS and HTML if changed
+        run: |
+          git add feed.xml index-plain.html
+          if git diff --staged --quiet; then
+            echo "✅ No changes to commit"
+          else
+            git commit -m "🔄 Update RSS feed and HTML - $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
