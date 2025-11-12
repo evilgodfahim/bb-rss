@@ -22,29 +22,25 @@ jobs:
         with:
           node-version: '18'
 
-      # 3. Install dependencies
-      - name: Install dependencies
-        run: npm install
-
-      # 4. Set environment variables
+      # 3. Set environment variables (optional)
       - name: Set environment variables
         run: |
           echo "BONIK_COOKIE=${{ secrets.BONIK_COOKIE }}" >> $GITHUB_ENV
           echo "USE_PUPPETEER=0" >> $GITHUB_ENV  # change to 1 if needed
 
-      # 5. Generate RSS Feed
+      # 4. Generate RSS Feed
       - name: Generate RSS Feed
         run: |
           echo "Fetching articles and generating feed..."
           node generate-rss.js || exit 1
 
-      # 6. Generate PolitePol HTML
+      # 5. Generate PolitePol HTML
       - name: Generate PolitePol HTML
         run: |
           echo "Generating plain HTML index..."
           node generate-plain-index.js || exit 1
 
-      # 7. Commit and push changes if files updated
+      # 6. Commit and push changes if files updated
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
