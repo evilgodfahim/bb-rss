@@ -2,7 +2,7 @@ name: Update RSS Feed and HTML
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # every 30 minutes
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -12,42 +12,27 @@ jobs:
       contents: write
 
     steps:
-      # 1. Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
 
-      # 3. Set environment variables (optional)
       - name: Set environment variables
         run: |
           echo "BONIK_COOKIE=${{ secrets.BONIK_COOKIE }}" >> $GITHUB_ENV
-          echo "USE_PUPPETEER=0" >> $GITHUB_ENV  # change to 1 if needed
+          echo "USE_PUPPETEER=0" >> $GITHUB_ENV
 
-      # 4. Generate RSS Feed
       - name: Generate RSS Feed
-        run: |
-          echo "Fetching articles and generating feed..."
-          node generate-rss.js || exit 1
+        run: node generate-rss.js || exit 1
 
-      # 5. Generate PolitePol HTML
       - name: Generate PolitePol HTML
-        run: |
-          echo "Generating plain HTML index..."
-          node generate-plain-index.js || exit 1
+        run: node generate-plain-index.js || exit 1
 
-      # 6. Commit and push changes if files updated
       - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add feed.xml index-plain.html
-          if git diff --staged --quiet; then
-            echo "✅ No changes to commit"
-          else
-            git commit -m "🔄 Update RSS feed and HTML - $(date +'%Y-%m-%d %H:%M:%S')"
-            git push
+        run: git config --local user.email "action@github.com" && \
+             git config --local user.name "GitHub Action" && \
+             git add feed.xml index-plain.html && \
+             git diff --staged --quiet || (git commit -m "🔄 Update RSS feed and HTML - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
