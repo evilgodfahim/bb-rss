@@ -12,20 +12,39 @@ jobs:
       contents: write
 
     steps:
+      # 1. Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '18'
 
+      # 3. Install dependencies (if using node-fetch, puppeteer, etc.)
+      - name: Install dependencies
+        run: npm ci
+
+      # 4. Set environment variables
+      - name: Set environment variables
+        run: |
+          echo "BONIK_COOKIE=${{ secrets.BONIK_COOKIE }}" >> $GITHUB_ENV
+          echo "USE_PUPPETEER=0" >> $GITHUB_ENV  # change to 1 if needed
+
+      # 5. Generate RSS Feed
       - name: Generate RSS Feed
-        run: node generate-rss.js
+        run: |
+          echo "Fetching articles and generating feed..."
+          node generate-rss.js || exit 1
 
+      # 6. Generate PolitePol HTML
       - name: Generate PolitePol HTML
-        run: node generate-plain-index.js
+        run: |
+          echo "Generating plain HTML index..."
+          node generate-plain-index.js || exit 1
 
+      # 7. Commit and push changes if files updated
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
@@ -34,6 +53,5 @@ jobs:
           if git diff --staged --quiet; then
             echo "✅ No changes to commit"
           else
-            git commit -m "🔄 Update RSS feed and HTML - $(date)"
+            git commit -m "🔄 Update RSS feed and HTML - $(date +'%Y-%m-%d %H:%M:%S')"
             git push
-          fi 
