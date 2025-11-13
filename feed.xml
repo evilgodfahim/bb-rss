@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 13 Nov 2025 06:38:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 07:24:21 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>উৎসবে-ঐতিহ্যে বাঙালির পিঠা সমাচার</title>
+      <link>https://bonikbarta.com/feature/COskyYXbPJzzJhHz/</link>
+      <description><![CDATA[রংপুর অঞ্চলে ভাপা পিঠা দিয়ে শুরু হয় নবান্ন উৎসব। একই দিনে পুরো অঞ্চলের মানুষ এ পিঠা তৈরি করে। তবে এ পিঠার ভেতরে নারকেল-চিনি বা গুড় থাকে না। সকালে গরম গরম ভাপা পিঠা খাওয়া হয় আগের রাতে রান্না করে রাখা বড় মাছের তরকারি দিয়ে।]]></description>
+      <pubDate>Thu, 13 Nov 2025 07:02:16 GMT</pubDate>
+      <guid isPermaLink="false">9e5af03ebaddce1226d0d443ec77a3ea</guid>
+    </item>
     <item>
       <title>যুক্তরাষ্ট্রে ৪৩ দিনের শাটডাউনের অবসান</title>
       <link>https://bonikbarta.com/international/1MIdAS1ehshutHFD/</link>
@@ -40,8 +47,8 @@
       <title>রাজধানীতে আইনশৃঙ্খলা বাহিনীর তৎপরতা জোরদার, সড়কে গাড়ি কম</title>
       <link>https://bonikbarta.com/bangladesh/EiaueLsPqWTN3I8s/</link>
       <description><![CDATA[রাজধানীর মতিঝিল, মালিবাগ, বাংলামোটর, কারওয়ানবাজার, মিরপুর, কালশীসহ বেশ কয়েকটি সড়কে যানবাহনের সংখ্যা অনেকটাই সীমিত দেখা গেছে। রাজধানী জুড়েই সতর্ক অবস্থায় রয়েছে আইনশৃঙ্খলা বাহিনী।]]></description>
-      <pubDate>Thu, 13 Nov 2025 04:56:41 GMT</pubDate>
-      <guid isPermaLink="false">98e8670925c33a2cc30b08804b80badd</guid>
+      <pubDate>Thu, 13 Nov 2025 04:56:00 GMT</pubDate>
+      <guid isPermaLink="false">c84133616a5537cdbebbe06d20c49993</guid>
     </item>
     <item>
       <title>মাদারীপুরে ট্রাকে আগুন-পুলিশের গাড়ি ভাঙচুর</title>
@@ -58,11 +65,11 @@
       <guid isPermaLink="false">97f7d2659d4f4e6db49e18a5f18a7a7d</guid>
     </item>
     <item>
-      <title>বাংলাদেশের লিড ১৫০ ছাড়াল, ক্রিজে শান্ত আর লিটন</title>
+      <title>রিভিউ নিয়ে বাঁচলেন মিরাজ, লিড ২৪৭</title>
       <link>https://bonikbarta.com/sports/ZGiGjkw0Sf9wuB74/</link>
       <description><![CDATA[মাত্র ৯ বলের ব্যবধানে ফিরলেন মুমিনুল-জয় উভয়েই। ব‍্যারি ম‍্যাককার্থির বলে আউট হয়ে মুমিনুল ৮২ এবং জয় ক্যারিয়ারসেরা ১৭১ রানের ইনিংস খেলে ফিরেছেন।]]></description>
       <pubDate>Thu, 13 Nov 2025 04:13:00 GMT</pubDate>
-      <guid isPermaLink="false">00a0459b711b27b1da8a215e12d18612</guid>
+      <guid isPermaLink="false">003ad0d1bef022c5e3392e8fdbd61e38</guid>
     </item>
     <item>
       <title>জুলাই গণহত্যা : ট্রাইব্যুনালে আনা হয়েছে সাবেক আইজিপি মামুনকে</title>
@@ -420,13 +427,6 @@
       <description><![CDATA[জৌলুশ হারাচ্ছে চীনের অনলাইন কেনাকাটার জনপ্রিয় উৎসব ‘সিঙ্গেলস ডে’।]]></description>
       <pubDate>Wed, 12 Nov 2025 19:35:18 GMT</pubDate>
       <guid isPermaLink="false">f8c9c88e712a8d19214b958a6bebc762</guid>
-    </item>
-    <item>
-      <title>টেসলার বিক্রি চীনে ৩ বছরের সর্বনিম্নে</title>
-      <link>https://bonikbarta.com/economy/mpL6Xhgz73slj84H/</link>
-      <description><![CDATA[চীনে গত মাসে টেসলার গাড়ি বিক্রি হয়েছে ২৬ হাজার ৬ ইউনিট, যা তিন বছরের মধ্যে সর্বনিম্ন।]]></description>
-      <pubDate>Wed, 12 Nov 2025 19:35:18 GMT</pubDate>
-      <guid isPermaLink="false">7a8d4016fb8248879b3b4114629692f6</guid>
     </item>
   </channel>
 </rss>
