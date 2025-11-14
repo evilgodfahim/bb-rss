@@ -2,7 +2,7 @@ name: Update RSS Feed and HTML
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -20,10 +20,23 @@ jobs:
         with:
           node-version: '18'
 
+      - name: Cache Playwright browsers
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            playwright-${{ runner.os }}-
+
       - name: Set environment variables
         run: |
           echo "BONIK_COOKIE=${{ secrets.BONIK_COOKIE }}" >> $GITHUB_ENV
           echo "USE_PUPPETEER=0" >> $GITHUB_ENV
+
+      - name: Install dependencies
+        run: |
+          npm install playwright xml2js
+          npx playwright install --with-deps
 
       - name: Generate RSS Feed
         run: node generate-rss.js || exit 1
