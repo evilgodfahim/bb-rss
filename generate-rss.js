@@ -1,75 +1,66 @@
 // generate-rss.js
 const fs = require('fs');
 const crypto = require('crypto');
-const fetch = global.fetch || require('node-fetch');
-const AbortController = global.AbortController || require('abort-controller');
+const { chromium } = require('playwright');
+const { parseStringPromise } = require('xml2js');
 
 const apiURLs = [
   "https://bonikbarta.com/api/post-filters/41?root_path=00000000010000000001",
   "https://bonikbarta.com/api/post-filters/52?root_path=00000000010000000001"
 ];
 const baseURL = "https://bonikbarta.com";
+const feedFile = "feed.xml";
+const maxItems = 500;
 
-// ---------------- Fetch Helpers ----------------
-async function fetchJsonSafe(url) {
-  const headers = {
-    'User-Agent': 'Mozilla/5.0 (RSS Generator)',
-    'Accept': 'application/json, text/plain, */*',
-    'Referer': 'https://bonikbarta.com/',
-    'Accept-Language': 'bn,en;q=0.8'
-  };
-  if (process.env.BONIK_COOKIE) headers['Cookie'] = process.env.BONIK_COOKIE;
-
-  const timeoutMs = 10000;
-  const maxRetries = 3;
-  let last = null;
-  for (let i=1;i<=maxRetries;i++){
-    const ac = new AbortController();
-    const id = setTimeout(()=>ac.abort(), timeoutMs);
-    try {
-      const r = await fetch(url, { method:'GET', headers, signal: ac.signal });
-      clearTimeout(id);
-      const text = await r.text().catch(()=> '');
-      const ct = r.headers && (r.headers.get && r.headers.get('content-type')) || '';
-      if (ct.includes('html') || text.trim().startsWith('<')) {
-        const err = new Error(`HTML response status=${r.status}`);
-        err.snippet = text.slice(0,400);
-        throw err;
-      }
-      return JSON.parse(text);
-    } catch (err) {
-      clearTimeout(id);
-      last = err;
-      const transient = /timeout|AbortError|ECONNRESET|ENOTFOUND|status=5|HTML response/i.test(String(err.message));
-      if (!transient || i===maxRetries) break;
-      await new Promise(res => setTimeout(res, 200 * Math.pow(2, i)));
-    }
+// ---------------- Parse Existing Feed ----------------
+async function parseExistingFeed() {
+  if (!fs.existsSync(feedFile)) {
+    console.log("📄 No existing feed.xml found, will create new one");
+    return [];
   }
-  throw last;
-}
 
-async function fetchAll() {
-  let allItems = [];
-  for (const url of apiURLs) {
-    try {
-      const data = await fetchJsonSafe(url);
-      const items = (data.posts && Array.isArray(data.posts))
-        ? data.posts
-        : ((data.content && data.content.items) || []);
-      allItems = allItems.concat(items || []);
-    } catch (err) {
-      console.error('Failed to load from', url, err && (err.message || err));
-      if (err && err.snippet) console.error('snippet:', err.snippet.slice(0,300));
+  try {
+    const xmlContent = fs.readFileSync(feedFile, 'utf8');
+    const result = await parseStringPromise(xmlContent);
+    
+    if (!result.rss || !result.rss.channel || !result.rss.channel[0].item) {
+      console.log("⚠️ Invalid feed structure, starting fresh");
+      return [];
     }
+
+    const items = result.rss.channel[0].item.map(item => ({
+      title: item.title[0],
+      link: item.link[0],
+      description: item.description[0].replace(/<!\[CDATA\[|\]\]>/g, ''),
+      pubDate: item.pubDate[0],
+      guid: item.guid[0]._ || item.guid[0]
+    }));
+
+    console.log(`📖 Loaded ${items.length} existing items from feed`);
+    return items;
+  } catch (err) {
+    console.error("❌ Error parsing existing feed:", err.message);
+    console.log("🔄 Starting with fresh feed");
+    return [];
   }
-  allItems.sort((a,b)=> new Date(b.first_published_at) - new Date(a.first_published_at));
-  return allItems;
 }
 
 // ---------------- RSS Helpers ----------------
 function generateGUID(item) {
-  const str = (item.title||'')+(item.excerpt||'')+(item.first_published_at||'');
+  const str = (item.title||'')+(item.excerpt||item.summary||'')+(item.first_published_at||'');
   return crypto.createHash('md5').update(str).digest('hex');
+}
+
+function itemToRSSItem(item) {
+  const nowUTC = new Date().toUTCString();
+  const fullLink = (item.url_path || "/").replace(/^\/home/,"");
+  const articleUrl = baseURL + fullLink;
+  const pubDate = item.first_published_at ? new Date(item.first_published_at).toUTCString() : nowUTC;
+  const title = (item.title || "No title").replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  const description = item.excerpt || item.summary || "No description available";
+  const guid = generateGUID(item);
+
+  return { title, link: articleUrl, description, pubDate, guid };
 }
 
 function generateRSS(items) {
@@ -86,19 +77,12 @@ function generateRSS(items) {
     '    <generator>GitHub Actions RSS Generator</generator>\n';
 
   items.forEach(item => {
-    const fullLink = (item.url_path || "/").replace(/^\/home/,"");
-    const articleUrl = baseURL + fullLink;
-    const pubDate = item.first_published_at ? new Date(item.first_published_at).toUTCString() : nowUTC;
-    const title = (item.title || "No title").replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-    const description = item.excerpt || item.summary || "No description available";
-    const guid = generateGUID(item);
-
     rss += '    <item>\n' +
-           '      <title>' + title + '</title>\n' +
-           '      <link>' + articleUrl + '</link>\n' +
-           '      <description><![CDATA[' + description + ']]></description>\n' +
-           '      <pubDate>' + pubDate + '</pubDate>\n' +
-           '      <guid isPermaLink="false">' + guid + '</guid>\n' +
+           '      <title>' + item.title + '</title>\n' +
+           '      <link>' + item.link + '</link>\n' +
+           '      <description><![CDATA[' + item.description + ']]></description>\n' +
+           '      <pubDate>' + item.pubDate + '</pubDate>\n' +
+           '      <guid isPermaLink="false">' + item.guid + '</guid>\n' +
            '    </item>\n';
   });
 
@@ -106,14 +90,97 @@ function generateRSS(items) {
   return rss;
 }
 
+// ---------------- Fetch with Playwright ----------------
+async function fetchJSONWithPlaywright(page, url) {
+  try {
+    console.log("→ Fetching:", url);
+    const response = await page.evaluate(async (u) => {
+      const res = await fetch(u, { 
+        headers: { 
+          Accept: 'application/json', 
+          'User-Agent': 'Mozilla/5.0',
+          'Referer': 'https://bonikbarta.com/',
+          'Accept-Language': 'bn,en;q=0.8'
+        } 
+      });
+      return await res.text();
+    }, url);
+
+    if (!response.trim().startsWith('{')) {
+      console.error("⚠️ Non-JSON response from", url);
+      return null;
+    }
+
+    const data = JSON.parse(response);
+    const items = (data.posts && Array.isArray(data.posts))
+      ? data.posts
+      : ((data.content && data.content.items) || []);
+    
+    if (!items || items.length === 0) {
+      console.warn("⚠️ No items in response:", url);
+      return null;
+    }
+
+    console.log(`✅ ${items.length} posts found`);
+    return items;
+  } catch (err) {
+    console.error("❌ Failed to fetch:", url, err);
+    return null;
+  }
+}
+
 // ---------------- Main ----------------
 (async function main() {
-  try {
-    const items = await fetchAll();
-    if(items.length === 0) console.warn('No articles fetched');
-    fs.writeFileSync('feed.xml', generateRSS(items.slice(0,500)), { encoding: 'utf8' });
-    console.log('RSS feed generated with ' + items.length + ' articles');
-  } catch (err) {
-    console.error('Error generating RSS:', err);
+  const browser = await chromium.launch({ headless: true });
+  const context = await browser.newContext({
+    userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/127 Safari/537.36"
+  });
+  const page = await context.newPage();
+
+  // Load existing feed items
+  const existingItems = await parseExistingFeed();
+  const existingGuids = new Set(existingItems.map(item => item.guid));
+  const existingLinks = new Set(existingItems.map(item => item.link));
+
+  const newItems = [];
+
+  for (const url of apiURLs) {
+    const items = await fetchJSONWithPlaywright(page, url);
+    if (!items) {
+      console.warn(`⚠️ Skipping ${url} due to error`);
+      continue;
+    }
+
+    for (const post of items) {
+      const rssItem = itemToRSSItem(post);
+      
+      // Only add if not already in feed (check both GUID and link)
+      if (!existingGuids.has(rssItem.guid) && !existingLinks.has(rssItem.link)) {
+        newItems.push(rssItem);
+        existingGuids.add(rssItem.guid);
+        existingLinks.add(rssItem.link);
+      }
+    }
+
+    // Rate limiting: wait 1 second between requests
+    await page.waitForTimeout(1000);
   }
+
+  await browser.close();
+
+  console.log(`🆕 Found ${newItems.length} new items`);
+
+  // Combine existing and new items
+  const allItems = [...newItems, ...existingItems];
+
+  // Sort by date (newest first)
+  allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+  // Keep only the latest 500 items
+  const finalItems = allItems.slice(0, maxItems);
+
+  const rssXML = generateRSS(finalItems);
+  fs.writeFileSync(feedFile, rssXML, { encoding: 'utf8' });
+
+  console.log(`✅ RSS feed updated with ${finalItems.length} total items (${newItems.length} new, ${existingItems.length} existing, keeping latest ${maxItems})`);
 })();
