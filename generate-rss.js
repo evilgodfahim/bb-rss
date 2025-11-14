@@ -22,7 +22,7 @@ async function parseExistingFeed() {
   try {
     const xmlContent = fs.readFileSync(feedFile, 'utf8');
     const result = await parseStringPromise(xmlContent);
-    
+
     if (!result.rss || !result.rss.channel || !result.rss.channel[0].item) {
       console.log("⚠️ Invalid feed structure, starting fresh");
       return [];
@@ -53,8 +53,12 @@ function generateGUID(item) {
 
 function itemToRSSItem(item) {
   const nowUTC = new Date().toUTCString();
-  const fullLink = (item.url_path || "/").replace(/^\/home/,"");
-  const articleUrl = baseURL + fullLink;
+  
+  // Clean up the URL path - remove /home/ prefix if it exists
+  let urlPath = item.url_path || "/";
+  urlPath = urlPath.replace(/^\/home\//, '/');
+  
+  const articleUrl = baseURL + urlPath;
   const pubDate = item.first_published_at ? new Date(item.first_published_at).toUTCString() : nowUTC;
   const title = (item.title || "No title").replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
   const description = item.excerpt || item.summary || "No description available";
@@ -115,7 +119,7 @@ async function fetchJSONWithPlaywright(page, url) {
     const items = (data.posts && Array.isArray(data.posts))
       ? data.posts
       : ((data.content && data.content.items) || []);
-    
+
     if (!items || items.length === 0) {
       console.warn("⚠️ No items in response:", url);
       return null;
@@ -153,7 +157,7 @@ async function fetchJSONWithPlaywright(page, url) {
 
     for (const post of items) {
       const rssItem = itemToRSSItem(post);
-      
+
       // Only add if not already in feed (check both GUID and link)
       if (!existingGuids.has(rssItem.guid) && !existingLinks.has(rssItem.link)) {
         newItems.push(rssItem);
