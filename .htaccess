@@ -1,4 +1,0 @@
-<Files "feed.xml">
-    Header set Content-Type "application/rss+xml; charset=UTF-8"
-    Header set Cache-Control "max-age=3600"
-</Files>
