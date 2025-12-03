@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 03 Dec 2025 22:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 23:13:01 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সিনোবাংলার ঋণমান ‘‌এ প্লাস’</title>
+      <link>https://bonikbarta.com/economy/gVbcXfR1SvI3SCcb/</link>
+      <description><![CDATA[বিবিধ খাতে তালিকাভুক্ত সিনোবাংলা ইন্ডাস্ট্রিজ লিমিটেডের ঋণমান দীর্ঘমেয়াদে ‘‌এ প্লাস’ ও স্বল্পমেয়াদে ‘‌এসটি থ্রি’।]]></description>
+      <pubDate>Wed, 03 Dec 2025 23:03:28 GMT</pubDate>
+      <guid isPermaLink="false">afb81e869c028119cde13afd4eef78e6</guid>
+    </item>
     <item>
       <title>পরিশোধিত জ্বালানি তেল আমদানিতে সিঙ্গাপুরফিলিয়া, ভোক্তারা ঠকছেন কি</title>
       <link>https://bonikbarta.com/bangladesh/vF4OcM4v0gqZuRdN/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[আগামী বছরের ফেব্রুয়ারির প্রথমার্ধে একই সঙ্গে সংসদ ও গণভোট আয়োজন করবে নির্বাচন কমিশন (ইসি)। এ লক্ষ্যে ভোটের দিনের অভিজ্ঞতা অর্জনে গতকাল দুই রঙের ব্যালটে মক ভোটিংয়ের আয়োজন করে নির্বাচন কমিশন (ইসি)।]]></description>
       <pubDate>Sat, 29 Nov 2025 22:17:00 GMT</pubDate>
       <guid isPermaLink="false">abe626bfe1b766ed0c007fc4568bc90c</guid>
-    </item>
-    <item>
-      <title>পঞ্চগড় মুক্ত দিবস পালিত</title>
-      <link>https://bonikbarta.com/bangladesh/qIEKH6ZgbckSdjyb/</link>
-      <description><![CDATA[নানা আয়োজনে পালিত হয়েছে পঞ্চগড় মুক্ত দিবস। ১৯৭১ সালের ২৯ নভেম্বর হানাদারমুক্ত হয় এ জেলা।]]></description>
-      <pubDate>Sat, 29 Nov 2025 21:38:01 GMT</pubDate>
-      <guid isPermaLink="false">7ce0f8e2dbed600b36f98e1aed4e4162</guid>
     </item>
   </channel>
 </rss>
