@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 09 Dec 2025 03:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 04:24:58 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সুনামি সতর্কতা তুলে নিল জাপান, ৭.৫ মাত্রার ভূমিকম্পে আহত অন্তত ৩০</title>
+      <link>https://bonikbarta.com/international/LhV9V5uBmGAF6ID1/</link>
+      <description><![CDATA[জাপানের ১-৭ মাত্রার ভূকম্পন স্কেলে আওমোরি প্রিফেকচারের হাচিনোহে শহরে এ ভূমিকম্পকে ‘আপার ৬’ হিসেবে রেকর্ড করা হয়েছে। এই মাত্রার কম্পনে হামাগুড়ি দেয়া ছাড়া দাঁড়ানো বা নড়াচড়া করা অসম্ভব।]]></description>
+      <pubDate>Tue, 09 Dec 2025 03:25:53 GMT</pubDate>
+      <guid isPermaLink="false">5f32680ae38205b01ea29a273504cb57</guid>
+    </item>
     <item>
       <title>পঞ্চগড়ে কনকনে ঠাণ্ডা, দেখা মিলেছে সূর্যের</title>
       <link>https://bonikbarta.com/bangladesh/hsGMau3VMhhupysJ/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[৩টি স্বাগতিক দেশসহ মোট ৪২টি দেশ এখন পর্যন্ত বিশ্বকাপে কোয়ালিফাই করেছে। আরো ৬টি টিকিট বাকি আছে এবং এখনো ২২টি দেশ এই ৬টি টিকিটের রেসে টিকে আছে।]]></description>
       <pubDate>Fri, 05 Dec 2025 12:05:00 GMT</pubDate>
       <guid isPermaLink="false">1827df0ea8fb9af03d7b1c7242c8f149</guid>
-    </item>
-    <item>
-      <title>চিকিৎসকেরা নিশ্চিত করলেই খালেদা জিয়াকে এয়ার অ্যাম্বুলেন্সে তোলা হবে: মির্জা ফখরুল</title>
-      <link>https://bonikbarta.com/bangladesh/ucDgWd5lHDGFeqUU/</link>
-      <description><![CDATA[মির্জা ফখরুল বলেন, চিকিৎসকেরা আশা করছেন আগামীকাল (শনিবার) কাতার থেকে এয়ার অ্যাম্বুলেন্স দেশে এসে পৌঁছালে রোববার তাকে লন্ডনে নেয়া সম্ভব হবে।]]></description>
-      <pubDate>Fri, 05 Dec 2025 11:47:24 GMT</pubDate>
-      <guid isPermaLink="false">7406111c7447dc380678c83aff8dd206</guid>
     </item>
   </channel>
 </rss>
