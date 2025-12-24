@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 24 Dec 2025 19:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 20:17:00 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>দেশের পথে তারেক রহমান</title>
+      <link>https://bonikbarta.com/bangladesh/2ACmXyTHWNSJrRA9/</link>
+      <description><![CDATA[যুক্তরাজ্য থেকে ১৭ বছরের বেশি সময় পর দেশে ফিরছেন বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমান।]]></description>
+      <pubDate>Wed, 24 Dec 2025 19:32:37 GMT</pubDate>
+      <guid isPermaLink="false">30d4b0f51a606c763b5f67e821b410f5</guid>
+    </item>
     <item>
       <title>প্রধান উপদেষ্টার বিশেষ সহকারী খোদা বকশ চৌধুরীর পদত্যাগ</title>
       <link>https://bonikbarta.com/bangladesh/U12GVPjMJfQdnsAZ/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[ইনকিলাব মঞ্চের মুখপাত্র শরিফ ওসমান হাদির হত্যাকাণ্ডের নিন্দা জানিয়ে তার পরিবারের প্রতি সমবেদনা প্রকাশ করেছেন জাতিসংঘ মহাসচিব এন্তোনিও গুতেরেস।]]></description>
       <pubDate>Sat, 20 Dec 2025 20:09:07 GMT</pubDate>
       <guid isPermaLink="false">370f72106917cd252b743f99203b3bee</guid>
-    </item>
-    <item>
-      <title>সহিংসতার ঘটনায় উদ্বেগ কমনওয়েলথ মহাসচিবের</title>
-      <link>https://bonikbarta.com/bangladesh/mLxGYdueZx2Uf3Y6/</link>
-      <description><![CDATA[ইনকিলাব মঞ্চের আহ্বায়ক শরিফ ওসমান বিন হাদির মৃত্যুতে শোক জানিয়ে বাংলাদেশে সাম্প্রতিক সহিংস পরিস্থিতি নিয়ে গভীর উদ্বেগ জানিয়েছেন কমনওয়েলথের মহাসচিব শার্লি বোচওয়ে।]]></description>
-      <pubDate>Sat, 20 Dec 2025 20:09:07 GMT</pubDate>
-      <guid isPermaLink="false">72ca1ed3c2815fb6a7dc00b8946b80a8</guid>
     </item>
   </channel>
 </rss>
