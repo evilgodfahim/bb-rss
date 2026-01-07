@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 07 Jan 2026 04:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 05:21:41 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>মধ্যবর্তী নির্বাচনে হারলে অভিশংসনের মুখে পড়তে পারি, রিপাবলিকানদের ট্রাম্প</title>
+      <link>https://bonikbarta.com/international/aN0RmBWZOYqG0E14/</link>
+      <description><![CDATA[নভেম্বরের এই নির্বাচনে কংগ্রেসের নিয়ন্ত্রণ হারালে ট্রাম্পের রাজনৈতিক এজেন্ডাগুলো থমকে যেতে পারে এবং তিনি বিভিন্ন সংসদীয় তদন্তের মুখে পড়তে পারেন। এ ঝুঁকি এড়াতে তিনি দলের সদস্যদের অভ্যন্তরীণ বিভেদ ভুলে ঐক্যবদ্ধ হওয়ার আহ্বান জানান।]]></description>
+      <pubDate>Wed, 07 Jan 2026 05:17:08 GMT</pubDate>
+      <guid isPermaLink="false">f2be8c1a9f3e451e28761215f7749910</guid>
+    </item>
     <item>
       <title>নওগাঁয় মৌসুমের সর্বনিম্ন তাপমাত্রা ৬.৭ ডিগ্রি</title>
       <link>https://bonikbarta.com/bangladesh/vw86JwJllrQnn4rT/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[No description available]]></description>
       <pubDate>Sat, 03 Jan 2026 10:24:00 GMT</pubDate>
       <guid isPermaLink="false">6bf9d25afce5102bfce5a8a335eca826</guid>
-    </item>
-    <item>
-      <title>ভেনিজুয়েলায় মার্কিন হামলাকে ‘রাষ্ট্রীয় সন্ত্রাসবাদ’ বলছে কিউবা</title>
-      <link>https://bonikbarta.com/international/RqEak6PWrKgQkb60/</link>
-      <description><![CDATA[বিবৃতির শেষাংশে কিউবার প্রেসিডেন্ট তাদের বিপ্লবী স্লোগান, ‘‌স্বদেশ না মৃত্যু, আমরা জয়ী হব’ উল্লেখ করেন।]]></description>
-      <pubDate>Sat, 03 Jan 2026 10:19:02 GMT</pubDate>
-      <guid isPermaLink="false">27461c5ae5e0af9b015476649896dd3e</guid>
     </item>
   </channel>
 </rss>
