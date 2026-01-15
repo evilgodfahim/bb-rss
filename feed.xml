@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 15 Jan 2026 06:25:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 07:22:01 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>আকাশসীমায় বাণিজ্যিক ফ্লাইট কয়েক ঘণ্টা বন্ধ রাখল ইরান</title>
+      <link>https://bonikbarta.com/international/elOTXqIqLwkEO6mO/</link>
+      <description><![CDATA[বৃহস্পতিবার ভোররাত থেকে সকাল ৭টা পর্যন্ত ইরানের আকাশসীমা দিয়ে সব ধরনের বাণিজ্যিক ফ্লাইট চলাচল বন্ধ ছিল। পূর্ব-পশ্চিম বিমান চলাচলের প্রধান রুটে ইরান অবস্থিত হওয়ায় এর প্রভাব পড়ে বিশ্বজুড়ে। ভারত ও ইউরোপের এয়ারলাইনসগুলো তাদের রুট পরিবর্তন করতে বাধ্য হয়।]]></description>
+      <pubDate>Thu, 15 Jan 2026 07:10:05 GMT</pubDate>
+      <guid isPermaLink="false">4734fee9e9b74c0c69dd9a871b79543a</guid>
+    </item>
     <item>
       <title>বিপিএল ম্যাচ শুরু নিয়ে অনিশ্চয়তা</title>
       <link>https://bonikbarta.com/sports/ltlKhRNL6DMiA8Wh/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[এশিয়ার প্রধান চাল রফতানিকারক দেশগুলোর বাজারে চলতি সপ্তাহে মিশ্র প্রবণতা দেখা গেছে।]]></description>
       <pubDate>Sat, 10 Jan 2026 21:14:27 GMT</pubDate>
       <guid isPermaLink="false">52479f9a4b232cb15ebafc70123acdd0</guid>
-    </item>
-    <item>
-      <title>ডিসেম্বরে ওপেকের জ্বালানি তেল উত্তোলন হ্রাস</title>
-      <link>https://bonikbarta.com/economy/2xi4VPr8gSsmv9LC/</link>
-      <description><![CDATA[ওপেকভুক্ত দেশগুলোয় ডিসেম্বরে অপরিশোধিত জ্বালানি তেল উত্তোলন কমেছে।]]></description>
-      <pubDate>Sat, 10 Jan 2026 21:12:53 GMT</pubDate>
-      <guid isPermaLink="false">1859a99e01e6d27d615e6056d8dcdc6c</guid>
     </item>
   </channel>
 </rss>
