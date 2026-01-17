@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 17 Jan 2026 01:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 03:18:51 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>অচলাবস্থা কাটাতে ঢাকা আসছে আইসিসির প্রতিনিধি দল</title>
+      <link>https://bonikbarta.com/sports/00f1cfbk6w34rJxZ/</link>
+      <description><![CDATA[এতদিন পর্যন্ত দুই পক্ষের মধ্যে সব আলোচনা ভিডিও কনফারেন্সের মাধ্যমে হলেও, এবারই প্রথম আইসিসি প্রতিনিধি দল সশরীরে বিসিবির মুখোমুখি হচ্ছে। এই সফরে আইসিসি বিসিবিকে একটি স্বাধীন নিরাপত্তা মূল্যায়নসহ বিস্তারিত তথ্য প্রদান করবে বলে আশা করা হচ্ছে।]]></description>
+      <pubDate>Sat, 17 Jan 2026 03:01:36 GMT</pubDate>
+      <guid isPermaLink="false">0aa5f218c0fcce130bb12294a3db2fd2</guid>
+    </item>
     <item>
       <title>নতুন দুটি সাবসিডিয়ারি খুলবে এসিআই</title>
       <link>https://bonikbarta.com/economy/hFQruwDy2QGnABhS/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[অ্যাপলের বহুল প্রতীক্ষিত আইফোন ফোল্ড বাজারে আসতে পারে চলতি বছরই।]]></description>
       <pubDate>Mon, 12 Jan 2026 20:30:24 GMT</pubDate>
       <guid isPermaLink="false">a1711cc62cbd6ef5c848b8f018dcde32</guid>
-    </item>
-    <item>
-      <title>মুস্তাফিজদের ভারতে খেলায় নিরাপত্তা হুমকি দেখছে না আইসিসি</title>
-      <link>https://bonikbarta.com/sports/BblZQgOdQsEyz83y/</link>
-      <description><![CDATA[গতকাল বাংলাদেশ ফুটবল ফেডারেশন ভবনে এক সংবাদ সম্মেলনে আসিফ নজরুল দাবি করেন, আইসিসির নিরাপত্তা বিভাগের মূল্যায়নে বলা হয়েছে, আসন্ন বিশ্বকাপে তিনটি কারণে ভারতের মাঠে বাংলাদেশ দলের নিরাপত্তা ঝুঁকি তৈরি হতে পারে।]]></description>
-      <pubDate>Mon, 12 Jan 2026 20:30:24 GMT</pubDate>
-      <guid isPermaLink="false">4dad6c9255782f6fcb6ae79bcca097fb</guid>
     </item>
   </channel>
 </rss>
