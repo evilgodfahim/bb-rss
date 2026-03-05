@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 05 Mar 2026 06:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 07:38:35 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>চট্টগ্রামে ছয় দিনে বাতিল অর্ধশত আন্তর্জাতিক ফ্লাইট</title>
+      <link>https://bonikbarta.com/bangladesh/nMpP19oEyiyiLFX2/</link>
+      <description><![CDATA[শাহ আমানত বিমানবন্দর সুত্রে জানা গেছে, বৃহস্পতিবার বাতিল হওয়া ফ্লাইটগুলো হলো বিমান বাংলাদেশ এয়ারলাইনসের মধ্যপ্রাচ্য থেকে আসা ২টি অ্যারাইভাল ফ্লাইট এবং এয়ার আরাবিয়ার মধ্যপ্রাচ্য থেকে আসা আরো ২টি অ্যারাইভাল ফ্লাইট রয়েছে।]]></description>
+      <pubDate>Thu, 05 Mar 2026 07:30:03 GMT</pubDate>
+      <guid isPermaLink="false">06942b63f82e077d7d42a5138dbf81f0</guid>
+    </item>
     <item>
       <title>বোস্টন ম্যাসাকারে ব্রিটিশবিরোধী আন্দোলনের ডাক</title>
       <link>https://bonikbarta.com/feature/ndZ25WXaKrRnsdto/</link>
@@ -3505,13 +3512,6 @@
       <description><![CDATA[দেশের কয়েকটি জেলায় সরকার নির্ধারিত দামে কৃষকরা সার পাচ্ছেন না বলে অভিযোগ উঠেছে। এমন পরিস্থিতিতে কৃষি প্রতিমন্ত্রী সুলতান সালাউদ্দিন টুকু বলেছেন, ‘দেশে সারের পর্যাপ্ত মজুদ রয়েছে।]]></description>
       <pubDate>Sat, 28 Feb 2026 20:49:39 GMT</pubDate>
       <guid isPermaLink="false">8aca35319d905fe031cca8755ff79b29</guid>
-    </item>
-    <item>
-      <title>চুয়াডাঙ্গায় চাকরি মেলা</title>
-      <link>https://bonikbarta.com/bangladesh/ZGV5ndSNCtEvhXAg/</link>
-      <description><![CDATA[চুয়াডাঙ্গায় নার্সিং ট্রেনিং ইনস্টিটিউটের জ্যেষ্ঠ শিক্ষার্থীদের কর্মসংস্থানের লক্ষ্যে চাকরি মেলা অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Sat, 28 Feb 2026 20:49:39 GMT</pubDate>
-      <guid isPermaLink="false">9190be3db02b51dcb7bf5b5dd5f7da29</guid>
     </item>
   </channel>
 </rss>
