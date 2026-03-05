@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 05 Mar 2026 04:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 05:43:15 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>খুলনায় শ্রমিক দল নেতাকে প্রকাশ্যে হত্যা, আটক ১</title>
+      <link>https://bonikbarta.com/bangladesh/TZZCOi3hBxDlSYBP/</link>
+      <description><![CDATA[এ নিয়ে গত এক সপ্তাহে খুলনায় সন্ত্রাসী হামলায় পাঁচ জন নিহত হলেন]]></description>
+      <pubDate>Thu, 05 Mar 2026 04:44:00 GMT</pubDate>
+      <guid isPermaLink="false">056c4b0735f796f0cc259fee1ef39358</guid>
+    </item>
     <item>
       <title>ইসরায়েল ও মধ্যপ্রাচ্যে মার্কিন ঘাঁটি লক্ষ্য করে ইরানের ১৯তম দফার হামলা শুরু</title>
       <link>https://bonikbarta.com/international/pBFXosQ3PnLR1ipj/</link>
@@ -3505,13 +3512,6 @@
       <description><![CDATA[রফতানি চাহিদা কমে যাওয়া এবং মালয়েশীয় মুদ্রা রিংগিতের বিনিময় হার বেড়ে যাওয়ায় বিশ্ববাজারে পাম অয়েলের বড় দরপতন হয়েছে।]]></description>
       <pubDate>Sat, 28 Feb 2026 20:49:24 GMT</pubDate>
       <guid isPermaLink="false">da97651cf2605d7cdd09b5f1364eed0a</guid>
-    </item>
-    <item>
-      <title>বিশ্ববাজারে তামার দাম তিন সপ্তাহের সর্বোচ্চে</title>
-      <link>https://bonikbarta.com/economy/jhz6YS2B3tqpbZFa/</link>
-      <description><![CDATA[যুক্তরাষ্ট্রের বিনিয়োগ চাহিদা ও দীর্ঘমেয়াদি ব্যবহার বৃদ্ধির পূর্বাভাসে বিশ্ববাজারে তামার দাম বেড়েছে।]]></description>
-      <pubDate>Sat, 28 Feb 2026 20:49:24 GMT</pubDate>
-      <guid isPermaLink="false">fbb0a4e150a512a0eaef3181274c1480</guid>
     </item>
   </channel>
 </rss>
