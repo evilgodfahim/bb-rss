@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 06 Mar 2026 13:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 14:33:20 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সর্বনিম্ন ২০০ টাকায় দেখা যাবে পাকিস্তান সিরিজের ম্যাচ</title>
+      <link>https://bonikbarta.com/sports/96XY0pQ0mcH6eDlB/</link>
+      <description><![CDATA[আজ শুক্রবার সিরিজের টিকিটের মূল্য জানিয়েছে বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)। সর্বনিম্ন ২০০ থেকে শুরু করে সর্বোচ্চ ২ হাজার টাকার টিকিটে খেলা দেখতে পারবেন দর্শক।]]></description>
+      <pubDate>Fri, 06 Mar 2026 14:14:21 GMT</pubDate>
+      <guid isPermaLink="false">61126099a7cdf4d512557c1988aaeddb</guid>
+    </item>
     <item>
       <title>যুদ্ধ ঘোষণা ছাড়াই চলছে সংঘাত: মার্কিন শাসনতন্ত্র ও ট্রাম্পের ‘ইরান মিশন’</title>
       <link>https://bonikbarta.com/international/UJ0qUNU8TP3vC3E3/</link>
@@ -3505,13 +3512,6 @@
       <description><![CDATA[বাংলাদেশে গ্রিনহাউজ হাইড্রোপনিকস টেন্ট কারখানা স্থাপন করতে যাচ্ছে গ্রিন পিউর হাউজওয়্যার (বিডি) কোম্পানি লিমিটেড।]]></description>
       <pubDate>Sun, 01 Mar 2026 20:50:04 GMT</pubDate>
       <guid isPermaLink="false">10a13f343e65f6efa7f65831076756ac</guid>
-    </item>
-    <item>
-      <title>ঐতিহাসিক পতাকা উত্তোলন দিবস আজ</title>
-      <link>https://bonikbarta.com/bangladesh/Dq8o9rV4lPZDRnv2/</link>
-      <description><![CDATA[আজ ২ মার্চ, ঐতিহাসিক ‘পতাকা উত্তোলন দিবস’। ১৯৭১ সালের উত্তাল মার্চের দ্বিতীয় দিনে ঢাকা বিশ্ববিদ্যালয়ে কলাভবনে প্রথম জাতীয় পতাকা উত্তোলনের মধ্য দিয়ে স্বাধীন বাংলাদেশের স্বপ্ন-সূর্য উদিত হয়।]]></description>
-      <pubDate>Sun, 01 Mar 2026 20:50:04 GMT</pubDate>
-      <guid isPermaLink="false">c1d0f4563002ad58ac9bd57640502b26</guid>
     </item>
   </channel>
 </rss>
