@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 11 Mar 2026 05:43:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 06:44:02 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>এশিয়ার কিছু দেশে চার দিনের কর্মসপ্তাহ ও বাড়ি থেকে কাজের নির্দেশ</title>
+      <link>https://bonikbarta.com/economy/6fUZ5YEHtTOWHjCI/</link>
+      <description><![CDATA[এমন সময় জ্বালানি তেল ও গ্যাসের সরবরাহ নিয়ে উদ্বেগ দেখা দিয়েছে, যখন দক্ষিণ-পূর্ব এশিয়ার কয়েকটি বড় অর্থনীতি ধীরগতির প্রবৃদ্ধি দেখছে। ইরানে মার্কিন-ইসরায়েলি হামলা শুরুর পর জ্বালানি তেলের দাম বাড়তে বাড়তে গত সোমবার প্রতি ব্যারেল প্রায় ১১৯ ডলারে পৌঁছায়, পরে তা কমে প্রায় ৯০ ডলারে নেমে আসে]]></description>
+      <pubDate>Wed, 11 Mar 2026 06:29:39 GMT</pubDate>
+      <guid isPermaLink="false">13f3cd46f83d48a48f13283e60dc21b9</guid>
+    </item>
     <item>
       <title>স্বর্ণের দাম ভরিতে বাড়ল ২,২১৬ টাকা</title>
       <link>https://bonikbarta.com/bangladesh/pSnj9GIjBP7wnUUX/</link>
@@ -3505,13 +3512,6 @@
       <description><![CDATA[বিশ্বের শীর্ষ চিপ নির্মাতা প্রতিষ্ঠান এনভিডিয়া চীনের বাজারের জন্য বিশেষভাবে তৈরি কৃত্রিম বুদ্ধিমত্তা বা এআই চিপ উৎপাদন বন্ধ করে দিয়েছে।]]></description>
       <pubDate>Fri, 06 Mar 2026 21:14:16 GMT</pubDate>
       <guid isPermaLink="false">37b7ac6161f61d31f643cc66446cdabf</guid>
-    </item>
-    <item>
-      <title>সীমিত পরিসরে উড্ডয়ন শুরু করল এমিরেটস ও ইতিহাদ</title>
-      <link>https://bonikbarta.com/economy/MbFRZWHLvcYjMxtz/</link>
-      <description><![CDATA[সংযুক্ত আরব আমিরাতের প্রধান দুই এয়ারলাইনস এমিরেটস ও ইতিহাদ গতকাল থেকে সীমিত পরিসরে উড়োজাহাজ চলাচল শুরু করেছে।]]></description>
-      <pubDate>Fri, 06 Mar 2026 21:10:51 GMT</pubDate>
-      <guid isPermaLink="false">090f8af10a2fb6a318cd85010c2d4c72</guid>
     </item>
   </channel>
 </rss>
