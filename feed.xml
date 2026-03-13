@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 13 Mar 2026 11:26:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 12:42:56 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>বিবলিওথেরাপি: ডিপ্রেশনে ওষুধ নয়, উপন্যাস</title>
+      <link>https://bonikbarta.com/feature/yTCNNSIXWHOAOQEO/</link>
+      <description><![CDATA[ডিপ্রেশনের সময় মানুষের মস্তিষ্কে যুক্তিবোধের কেন্দ্র প্রিফ্রন্টাল কর্টেক্স ও আবেগ নিয়ন্ত্রণকারী অংশ অ্যামিগডালার মধ্যে যোগাযোগ দুর্বল হয়ে পড়ে। এ দুই অংশের সমন্বয় কমে গেলে মানুষ প্রায়ই অতীতের কষ্ট ও নেতিবাচক স্মৃতির মধ্যে আটকে যায়। ঠিক এই জায়গাতেই সাহিত্য এক ধরনের মানসিক সেতুবন্ধন তৈরি করতে পারে]]></description>
+      <pubDate>Fri, 13 Mar 2026 11:41:54 GMT</pubDate>
+      <guid isPermaLink="false">1cbc40e35c56354c976503aa48def212</guid>
+    </item>
     <item>
       <title>বাগেরহাটে সড়ক দূর্ঘটনায় বর-কনেসহ নিহত ১৪ জনের দাফন সম্পন্ন</title>
       <link>https://bonikbarta.com/bangladesh/Kjxkz6x1cGEGdi4k/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[যুক্তরাষ্ট্র ও ইসরায়েলের সঙ্গে ইরানের যুদ্ধ শুরু হওয়ার ঠিক দুদিন পর দক্ষিণ কোরিয়ার বিপক্ষে মাঠে নেমেছিল ইরান। ম্যাচের আগে যখন ইরানের জাতীয় সংগীত বাজছিল, ইরানের মেয়েরা তখন ঠোঁট মেলাননি। অনেকেই মনে করছেন, এটি ইরানের বর্তমান শাসকদের বিরুদ্ধে নারী ফুটবল দলের প্রতিবাদ।]]></description>
       <pubDate>Mon, 09 Mar 2026 19:24:43 GMT</pubDate>
       <guid isPermaLink="false">60b967bfa94cdc55c30713fa3892bb38</guid>
-    </item>
-    <item>
-      <title>মিরপুরে বহুতল ভবনে আগুন</title>
-      <link>https://bonikbarta.com/bangladesh/Bjg1Y6v0ix6ckGrD/</link>
-      <description><![CDATA[ঢাকার মিরপুর ২ নম্বর সেকশনে একটি বহুতল বাণিজ্যিক ভবনে অগ্নিকাণ্ডের ঘটনা ঘটেছে।]]></description>
-      <pubDate>Mon, 09 Mar 2026 19:01:38 GMT</pubDate>
-      <guid isPermaLink="false">d34af128cae1f01ec7b19aaa42e6621b</guid>
     </item>
   </channel>
 </rss>
