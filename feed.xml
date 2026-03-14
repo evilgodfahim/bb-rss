@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 14 Mar 2026 14:22:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 15:21:45 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>নোয়াবের সভাপতি হলেন মতিউর রহমান চৌধুরী</title>
+      <link>https://bonikbarta.com/bangladesh/7HLFm1iyO4Q99DhH/</link>
+      <description><![CDATA[নোয়াব নির্বাচন বোর্ডের চেয়ারম্যান এম. মাশরুর রিয়াজ নতুন কমিটি ঘোষণা করেন।]]></description>
+      <pubDate>Sat, 14 Mar 2026 14:57:00 GMT</pubDate>
+      <guid isPermaLink="false">be1b0b2b94b2fcc25364d8f9c2c637a6</guid>
+    </item>
     <item>
       <title>প্রার্থিতা প্রত্যাহারের সময় শেষ হল আজ, প্রতীক বরাদ্দ কাল</title>
       <link>https://bonikbarta.com/bangladesh/k0PKXr8CziPhA2vN/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[পুনর্গঠিত আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের তদন্ত ও প্রসিকিউশনের সার্বিক বিষয় অনুসন্ধানে পাঁচ সদস্যের ফ্যাক্টস ফাইন্ডিং কমিটি গঠন করা হয়।]]></description>
       <pubDate>Tue, 10 Mar 2026 14:15:59 GMT</pubDate>
       <guid isPermaLink="false">8572673e934e1bb6a9b0ecea214d1cb4</guid>
-    </item>
-    <item>
-      <title>টিএসসিতে নারী হেনস্তার ঘটনায় ঢাবির ৩ শিক্ষার্থী বহিষ্কার</title>
-      <link>https://bonikbarta.com/bangladesh/mlQUbLvV6yNWxcLJ/</link>
-      <description><![CDATA[ঢাকা বিশ্ববিদ্যালয় অর্ডারে প্রদত্ত ক্ষমতাবলে বিশ্ববিদ্যালয়ের প্রক্টর অধ্যাপক সাইফুদ্দীন আহমদ তাদের বহিষ্কার করেন।]]></description>
-      <pubDate>Tue, 10 Mar 2026 14:09:37 GMT</pubDate>
-      <guid isPermaLink="false">83bf737c32de3a5ff1e8009dfc917773</guid>
     </item>
   </channel>
 </rss>
