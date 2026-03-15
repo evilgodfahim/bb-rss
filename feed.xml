@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 15 Mar 2026 13:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 14:25:28 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>সিঙ্গাপুরে হাসপাতালে ভর্তি মির্জা আব্বাস</title>
+      <link>https://bonikbarta.com/bangladesh/l8hsEnDnx6pMVlg7/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sun, 15 Mar 2026 13:59:14 GMT</pubDate>
+      <guid isPermaLink="false">15240fd11a21b97a899ba8fa224ee22a</guid>
+    </item>
     <item>
       <title>শাহ আমানতে এ পর্যন্ত ১২০ আন্তর্জাতিক ফ্লাইট বাতিল</title>
       <link>https://bonikbarta.com/bangladesh/n16IFCQqpbDphNx2/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[ইন্টারন্যাশনাল এনার্জি এজেন্সি (আইইএ) ইতিহাসে সবচেয়ে বড় জরুরি মজুদ থেকে জ্বালানি তেল ছাড়ার প্রস্তাব করেছে।]]></description>
       <pubDate>Wed, 11 Mar 2026 20:09:58 GMT</pubDate>
       <guid isPermaLink="false">b6362bf79384f481d493b04ffc174a33</guid>
-    </item>
-    <item>
-      <title>‘‌মানবাধিকার রক্ষায় সরকার দৃঢ়প্রতিজ্ঞ’</title>
-      <link>https://bonikbarta.com/bangladesh/Ly4jYuqO1PkW0zXz/</link>
-      <description><![CDATA[কোনো কিছুই জাতির ওপর জবরদস্তি বা জোরপূর্বক চাপিয়ে দিলে তা ভালো ফল বয়ে আনে না বলে মন্তব্য করেছেন স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।]]></description>
-      <pubDate>Wed, 11 Mar 2026 20:09:23 GMT</pubDate>
-      <guid isPermaLink="false">58ce6f8c7b665a80b5d458c24105ba88</guid>
     </item>
   </channel>
 </rss>
