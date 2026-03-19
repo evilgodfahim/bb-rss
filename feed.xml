@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Thu, 19 Mar 2026 09:37:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 10:34:17 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>ঈদের ছুটিতে যাওয়ার আগে চারপেয়ে বন্ধুদের জন্য কী রেখে যাচ্ছেন</title>
+      <link>https://bonikbarta.com/feature/9m9sarWYorqtcWHa/</link>
+      <description><![CDATA[ছুটির এ সময়টায় আমরা যারা শহরে অবস্থান করছি কিংবা যাওয়ার আগে এই অবুঝ প্রাণীদের কন্য কিছুটা প্রস্তুতিও নিতে পারি। খুব ছোট ছোট উদ্যোগই এখানে তাদের জন্য বড় পার্থক্য গড়ে দিতে পারে।]]></description>
+      <pubDate>Thu, 19 Mar 2026 09:53:07 GMT</pubDate>
+      <guid isPermaLink="false">9f41c0c82d46479f60c50e0b8cb86515</guid>
+    </item>
     <item>
       <title>ঢাকা-টাঙ্গাইল-যমুনা সেতু মহাসড়কে ৩০ কিলোমিটারে যানবাহনের ধীরগতি</title>
       <link>https://bonikbarta.com/bangladesh/mkson7VAIfEpnlk7/</link>
@@ -3501,13 +3508,6 @@
       <description><![CDATA[যমুনা সেতুর ওপর চাপ কমানোর লক্ষ্যে গাইবান্ধার বালাসী থেকে জামালপুরের বাহাদুরাবাদ পর্যন্ত নৌ-রুট খনন প্রকল্পের কাজ শুরু করে বাংলাদেশ অভ্যন্তরীণ নৌ-পরিবহন কর্তৃপক্ষ (বিআইডব্লিউটিএ)।]]></description>
       <pubDate>Sat, 14 Mar 2026 21:59:31 GMT</pubDate>
       <guid isPermaLink="false">87a6f8d032da178d73b83960ae25f0ab</guid>
-    </item>
-    <item>
-      <title>ফাল্গুনের ঝড়-বৃষ্টিতে উত্তরের দুই জেলায় ক্ষতিগ্রস্ত ফসল</title>
-      <link>https://bonikbarta.com/bangladesh/8dHDT2iKk7wX4z0G/</link>
-      <description><![CDATA[ফাল্গুনের শেষ দিকে উত্তরের কয়েকটি জেলায় ঝড়-বৃষ্টি হয়েছে। এতে ফসলের মাঠে তৈরি হয়েছে জলাবদ্ধতা।]]></description>
-      <pubDate>Sat, 14 Mar 2026 21:57:09 GMT</pubDate>
-      <guid isPermaLink="false">b6a65383b3e398604325c7abeb99e328</guid>
     </item>
   </channel>
 </rss>
