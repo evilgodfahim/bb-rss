@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 25 Mar 2026 07:54:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 08:42:41 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>বিশ্বের প্রথম যাত্রীবাহী রেলের যাত্রা শুরুর গল্প</title>
+      <link>https://bonikbarta.com/feature/GsTldmXUhUIPckTN/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Wed, 25 Mar 2026 08:37:25 GMT</pubDate>
+      <guid isPermaLink="false">d67ae4a1f68ceecc73d20fd87c774a81</guid>
+    </item>
     <item>
       <title>জুলাইযোদ্ধাদের সর্বসম্মতভাবে দায়মুক্তি দেয়া হবে: তথ্যমন্ত্রী</title>
       <link>https://bonikbarta.com/bangladesh/cJu7rtjQtZe0Bmvn/</link>
@@ -3501,13 +3508,6 @@
       <description><![CDATA[ম্যাচের প্রথমার্ধেই দক্ষিণ কোরিয়ার জালে দুইবার বল পাঠায় জাপান। ম্যাচের ১৫তম মিনিটে আসে প্রথম গোলটি। গোল করে দলকে লিড এনে দেন রিকো উয়েকি।]]></description>
       <pubDate>Wed, 18 Mar 2026 13:38:04 GMT</pubDate>
       <guid isPermaLink="false">727b34edd8cff0fb20e82338b09d9a2f</guid>
-    </item>
-    <item>
-      <title>বগুড়ায় রেল দুর্ঘটনা তদন্তে কমিটি</title>
-      <link>https://bonikbarta.com/bangladesh/Eb21Ak1uZaxwaclF/</link>
-      <description><![CDATA[ইনিশিয়ালি মনে হচ্ছে সিগন্যাল নিয়ে একটা ভুল-বোঝাবুঝি হয়ে থাকতে পারে। লোকো মাস্টার হয়তো সিগন্যাল পাননি অথবা প্রপারলি ফলো করেননি।]]></description>
-      <pubDate>Wed, 18 Mar 2026 13:21:00 GMT</pubDate>
-      <guid isPermaLink="false">060c96dcdde636c8782083372cb40a06</guid>
     </item>
   </channel>
 </rss>
