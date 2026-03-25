@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 25 Mar 2026 17:53:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 18:48:42 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>দৌলতদিয়া ঘাটে নদীতে বাস: মৃতের সংখ্যা বেড়ে ১৫, উদ্ধারকাজ চলছে</title>
+      <link>https://bonikbarta.com/bangladesh/nhMU5bn9L7cJ6Xlo/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Wed, 25 Mar 2026 18:44:50 GMT</pubDate>
+      <guid isPermaLink="false">97cd991e5e77bccf0404f00578d3f0b6</guid>
+    </item>
     <item>
       <title>দায়িত্ব পুনর্বণ্টন : এক মন্ত্রীর দায়িত্ব কমেছে, প্রতিমন্ত্রীর বেড়েছে</title>
       <link>https://bonikbarta.com/bangladesh/yIepgvrHTRvafmzJ/</link>
@@ -3501,13 +3508,6 @@
       <description><![CDATA[পুঁজিবাজারে তালিকাভুক্ত প্রকৌশল খাতের তালিকাভুক্ত কোম্পানি এসএস স্টিল লিমিটেডের শেয়ারদর চলতি সপ্তাহের দুই কার্যদিবসে ১৮ শতাংশ বেড়ে ৫ টাকা ৮০ পয়সায় দাঁড়িয়েছে।]]></description>
       <pubDate>Wed, 18 Mar 2026 19:39:07 GMT</pubDate>
       <guid isPermaLink="false">e81b02b9d2b8ca9aaeed14c9d476e237</guid>
-    </item>
-    <item>
-      <title>দর কমার শীর্ষে মেঘনা কনডেন্সড মিল্ক</title>
-      <link>https://bonikbarta.com/economy/xOyzmpSLNIr3g0mV/</link>
-      <description><![CDATA[ঢাকা স্টক এক্সচেঞ্জে (ডিএসই) চলতি সপ্তাহের দুই কার্যদিবসে মেঘনা কনডেন্সড মিল্ক ইন্ডাস্ট্রিজ লিমিটেডের শেয়ার ৮ শতাংশ দর হারিয়েছে।]]></description>
-      <pubDate>Wed, 18 Mar 2026 19:39:07 GMT</pubDate>
-      <guid isPermaLink="false">7b0b4a21905a8cc6c24def1e1d8d1747</guid>
     </item>
   </channel>
 </rss>
