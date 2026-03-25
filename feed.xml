@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Wed, 25 Mar 2026 16:04:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 17:53:38 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>দায়িত্ব পুনর্বণ্টন : এক মন্ত্রীর দায়িত্ব কমেছে, প্রতিমন্ত্রীর বেড়েছে</title>
+      <link>https://bonikbarta.com/bangladesh/yIepgvrHTRvafmzJ/</link>
+      <description><![CDATA[প্রধানমন্ত্রী রুলস অব বিজনেস অনুযায়ী এ দায়িত্ব পুনর্বণ্টন করেছেন।]]></description>
+      <pubDate>Wed, 25 Mar 2026 17:00:24 GMT</pubDate>
+      <guid isPermaLink="false">da9c05a53ca781941fa76f46a693e8a5</guid>
+    </item>
     <item>
       <title>গুলিবিদ্ধ ফুল বানুর ভয়াবহ অভিজ্ঞতা</title>
       <link>https://bonikbarta.com/bangladesh/TuLxRxc09ngBZs5d/</link>
@@ -3501,13 +3508,6 @@
       <description><![CDATA[ঢাকা স্টক এক্সচেঞ্জে (ডিএসই) চলতি সপ্তাহের দুই কার্যদিবসে মেঘনা কনডেন্সড মিল্ক ইন্ডাস্ট্রিজ লিমিটেডের শেয়ার ৮ শতাংশ দর হারিয়েছে।]]></description>
       <pubDate>Wed, 18 Mar 2026 19:39:07 GMT</pubDate>
       <guid isPermaLink="false">7b0b4a21905a8cc6c24def1e1d8d1747</guid>
-    </item>
-    <item>
-      <title>ব্লুচিপ সূচক ডিএস-৩০ কমেছে পৌনে ১ শতাংশ</title>
-      <link>https://bonikbarta.com/economy/qrV3CJP04FN2wk7y/</link>
-      <description><![CDATA[দেশের পুঁজিবাজারে চলতি সপ্তাহে সূচকের নিম্নমুখিতা দেখা গেছে।]]></description>
-      <pubDate>Wed, 18 Mar 2026 19:39:07 GMT</pubDate>
-      <guid isPermaLink="false">16445f4a707fed671732f1ed6a31e086</guid>
     </item>
   </channel>
 </rss>
