@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Fri, 27 Mar 2026 07:57:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 08:49:32 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>আমার এলাকায় ওয়াজ-কীর্তন হবে, বাউল গানও হবে: রুমিন ফারহানা</title>
+      <link>https://bonikbarta.com/bangladesh/7Id8SA2GrNZ9sl1F/</link>
+      <description><![CDATA[রুমিন ফারহানা বলেন, অন্তর্বর্তীকালীন সরকারের সময়ে আমরা দেখেছি, কীভাবে একটার পর একটা মাজার ভাঙা হয়েছে, বাউল গানের আসরে বাধা দেয়া হয়েছে। বাউল গান যারা করে, তাদের কীভাবে হেনস্তা করে জেলে দেয়া হয়েছে আমরা এগুলো দেখেছি।]]></description>
+      <pubDate>Fri, 27 Mar 2026 08:30:53 GMT</pubDate>
+      <guid isPermaLink="false">5d519e38e4a5ba6c8337ef311f49cfe3</guid>
+    </item>
     <item>
       <title>বিজয়ী জাতির দমে যাওয়ার অবকাশ নেই</title>
       <link>https://bonikbarta.com/editorial/SIo36GLpJ5vpjWa6/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[No description available]]></description>
       <pubDate>Sat, 21 Mar 2026 06:04:00 GMT</pubDate>
       <guid isPermaLink="false">8b773b4c39e827ff5805f7bacb661038</guid>
-    </item>
-    <item>
-      <title>ঈদুল ফিতর উপলক্ষে রাজধানীতে বর্ণাঢ্য আনন্দ মিছিল</title>
-      <link>https://bonikbarta.com/bangladesh/e6UO064oAEmBt3rz/</link>
-      <description><![CDATA[জাতীয় ঈদগাহ ময়দান সংলগ্ন হাইকোর্ট প্রাঙ্গণ থেকে শুরু হওয়া এ মিছিলে হাজারো মানুষ অংশ নেন। এতে শিশু, নারীসহ বিভিন্ন বয়স ও শ্রেণী-পেশার মানুষের উপস্থিতি ছিল চোখে পড়ার মতো।]]></description>
-      <pubDate>Sat, 21 Mar 2026 05:54:30 GMT</pubDate>
-      <guid isPermaLink="false">ca790e8871d4233025cac92678ca39b8</guid>
     </item>
   </channel>
 </rss>
