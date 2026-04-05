@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 05 Apr 2026 19:30:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 20:26:15 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>হাসপাতাল ভাংচুর</title>
+      <link>https://bonikbarta.com/bangladesh/7cEfF7x1ZKKivTeN/</link>
+      <description><![CDATA[ব্রাহ্মণবাড়িয়ার নবীনগরে বেসরকারি আহমেদ হাসপাতালে ভুল চিকিৎসায় রাকিবা আক্তার (১৮) নামে এক প্রসূতির মৃত্যুর অভিযোগ উঠেছে।]]></description>
+      <pubDate>Sun, 05 Apr 2026 20:25:50 GMT</pubDate>
+      <guid isPermaLink="false">2f845c99aa3de11f33c311ab2f8c7ca0</guid>
+    </item>
     <item>
       <title>ব্যয়সীমা কমাল সরকার, সব ধরনের যানবাহন ক্রয় বন্ধ</title>
       <link>https://bonikbarta.com/bangladesh/MyrhT6vsOvD9FJ77/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[হঠাৎ সাক্ষাতে পদোন্নতিবঞ্চিত চিকিৎসকদের কথা শুনলেন প্রধানমন্ত্রী তারেক রহমান। গতকাল দুপুরে বাংলাদেশ সচিবালয়ে পদোন্নতিবঞ্চিত একদল চিকিৎসকের কথা শোনেন তিনি।]]></description>
       <pubDate>Tue, 31 Mar 2026 21:00:00 GMT</pubDate>
       <guid isPermaLink="false">63f20a77058b98a1ed7c9760d45c4162</guid>
-    </item>
-    <item>
-      <title>একদিনে ৮৮ হাজার লিটার তেল উদ্ধার</title>
-      <link>https://bonikbarta.com/bangladesh/vf5cfWqjFd5SPGqJ/</link>
-      <description><![CDATA[একদিনে সারা দেশে অভিযান চালিয়ে ৮৭ হাজার ৭০০ লিটার জ্বালানি তেল উদ্ধার করা হয়েছে।]]></description>
-      <pubDate>Tue, 31 Mar 2026 21:00:00 GMT</pubDate>
-      <guid isPermaLink="false">ab01326ff549650be5424dc192a571c5</guid>
     </item>
   </channel>
 </rss>
