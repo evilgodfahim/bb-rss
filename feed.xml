@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sun, 14 Jun 2026 17:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 19:15:53 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>কুরাসাওয়ের জালে জার্মানির গোলবন্যা</title>
+      <link>https://bonikbarta.com/sports/cSpycbcwd3nkp6hE/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sun, 14 Jun 2026 19:08:00 GMT</pubDate>
+      <guid isPermaLink="false">d12baa1093dcc878c3613a69e4eb0438</guid>
+    </item>
     <item>
       <title>লেবাননে ফের হামলা ইসরায়েলের, ট্রাম্প বললেন উচিৎ হয়নি, উপযুক্ত জবাব দেবে ইরান</title>
       <link>https://bonikbarta.com/international/EtGeSiTO4FqS2J1e/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[বাংলাদেশ ব্যাংক দেশে ডিজিটাল লেনদেন সম্প্রসারণ এবং ক্যাশলেস অর্থনীতি গড়ে তোলার লক্ষ্যে বাংলা কিউআর ব্যবহারের প্রচারণায় অংশ নিলেন গভর্নরসহ দেশের সব ব্যাংক এমডি।]]></description>
       <pubDate>Wed, 10 Jun 2026 20:25:04 GMT</pubDate>
       <guid isPermaLink="false">5f49ca10162153acd0efb06805bad84e</guid>
-    </item>
-    <item>
-      <title>ইসলামী ব্যাংকের বিরাজমান পরিস্থিতি নিয়ে উদ্বেগ ব্যাংক এমডিদের</title>
-      <link>https://bonikbarta.com/economy/Ojup2LQdJVqfNG0f/</link>
-      <description><![CDATA[ইসলামী ব্যাংক ঘিরে চলমান অস্থিরতায় গভীর উদ্বেগ ও সংকটের দ্রুত সমাধান চেয়েছে ব্যাংকগুলোর প্রধান নির্বাহীদের সংগঠন অ্যাসোসিয়েশন অব ব্যাংকার্স, বাংলাদেশ (এবিবি)।]]></description>
-      <pubDate>Wed, 10 Jun 2026 20:25:04 GMT</pubDate>
-      <guid isPermaLink="false">d751472b975a0c15078bd5df653fa292</guid>
     </item>
   </channel>
 </rss>
