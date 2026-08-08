@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Sat, 08 Aug 2026 04:50:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 05:37:54 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>গ্রিস উপকূলে দুই শতাধিক অভিবাসনপ্রত্যাশী উদ্ধার, অধিকাংশই বাংলাদেশী ও সুদানি</title>
+      <link>https://bonikbarta.com/international/rBAiWliItXAY0rkf/</link>
+      <description><![CDATA[No description available]]></description>
+      <pubDate>Sat, 08 Aug 2026 05:04:50 GMT</pubDate>
+      <guid isPermaLink="false">48b166ecd512d6024258b058499656a2</guid>
+    </item>
     <item>
       <title>ন্যাটোর প্রতিরোধ ক্ষমতা পরীক্ষায় সীমিত হামলা চালাতে পারেন পুতিন: মার্কিন গোয়েন্দা প্রতিবেদন</title>
       <link>https://bonikbarta.com/international/tgP6Mt0TBMIgxCV8/</link>
@@ -3501,13 +3508,6 @@
       <description><![CDATA[ইস্টার্ন ব্যাংক পিএলসি (ইবিএল) ও অ্যাসেন্ট হেলথের মধ্যে সম্প্রতি একটি চুক্তি স্বাক্ষর হয়েছে।]]></description>
       <pubDate>Mon, 03 Aug 2026 20:28:26 GMT</pubDate>
       <guid isPermaLink="false">9a3bd3e8a88557408a00d184ea558700</guid>
-    </item>
-    <item>
-      <title>দরবৃদ্ধির শীর্ষে মিউচুয়াল ফান্ড</title>
-      <link>https://bonikbarta.com/economy/BPk7zb3STV2M7DHc/</link>
-      <description><![CDATA[গতকাল পুঁজিবাজারে দরবৃদ্ধির তালিকায় মিউচুয়াল ফান্ডের আধিপত্য ছিল।]]></description>
-      <pubDate>Mon, 03 Aug 2026 20:28:26 GMT</pubDate>
-      <guid isPermaLink="false">dad5d4ba9c4c6f85ccb3df4ce4e0c546</guid>
     </item>
   </channel>
 </rss>
