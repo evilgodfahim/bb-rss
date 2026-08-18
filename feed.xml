@@ -6,8 +6,15 @@
     <atom:link href="https://harmonious-froyo-665879.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest articles from Bonikbarta</description>
     <language>bn</language>
-    <lastBuildDate>Tue, 18 Aug 2026 05:47:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:31:02 GMT</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
+    <item>
+      <title>হারিয়ে যাওয়া উপনিবেশের রহস্য আজও অমীমাংসিত</title>
+      <link>https://bonikbarta.com/feature/ijvGAp9WR81JUCuP/</link>
+      <description><![CDATA[১৯৫৮ সালের ১৮ আগস্ট ভ্লাদিমির নাবোকভের উপন্যাস ‘ললিতা’ প্রকাশিত হয়]]></description>
+      <pubDate>Tue, 18 Aug 2026 06:13:28 GMT</pubDate>
+      <guid isPermaLink="false">779c078b6abe77e920c91ee234b11c5b</guid>
+    </item>
     <item>
       <title>হাইকোর্টে ১২ কার্যদিবসে ৬২ হাজার ৬৩৭ মামলা নিষ্পত্তি</title>
       <link>https://bonikbarta.com/bangladesh/KmScLtiDSU7YRzYY/</link>
@@ -3500,13 +3507,6 @@
       <description><![CDATA[বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশনের (বিএসইসি) চেয়ারম্যান মাসুদ খানের সঙ্গে সৌজন্য সাক্ষাৎ করেছে ইনস্টিটিউট অব চার্টার্ড সেক্রেটারিজ অব বাংলাদেশের (আইসিএসবি) একটি প্রতিনিধি দল।]]></description>
       <pubDate>Thu, 13 Aug 2026 20:53:53 GMT</pubDate>
       <guid isPermaLink="false">4b906c0b47501047e8a1e89cd4b84838</guid>
-    </item>
-    <item>
-      <title>ন্যাশনাল ব্যাংকের বার্ষিক সাধারণ সভা অনুষ্ঠিত</title>
-      <link>https://bonikbarta.com/economy/RIrcvfJaKHoEuC7C/</link>
-      <description><![CDATA[ন্যাশনাল ব্যাংক পিএলসির ৪৩তম বার্ষিক সাধারণ সভা গতকাল রাজধানীর একটি কনভেনশন সেন্টারে অনুষ্ঠিত হয়েছে।]]></description>
-      <pubDate>Thu, 13 Aug 2026 20:50:27 GMT</pubDate>
-      <guid isPermaLink="false">509dd6f8c6f67481ef0f2b7cc2dc4c57</guid>
     </item>
   </channel>
 </rss>
